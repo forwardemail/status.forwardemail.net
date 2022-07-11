@@ -1,31 +1,54 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: forwardemail # Your GitHub organization or username, where this repository lives
+repo: status.forwardemail.net # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: forwardemail.net
+    url: https://forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+  - name: api.forwardemail.net
+    url: https://api.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+  - name: mx1.forwardemail.net
+    check: "tcp-ping"
+    url: mx1.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+  - name: mx2.forwardemail.net
+    check: "tcp-ping"
+    url: mx2.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+  - name: bree
+    check: "tcp-ping"
+    url: $IP_ADDRESS_BREE
+    icon: https://raw.githubusercontent.com/breejs/bree/master/favicon.ico
+  - name: mongo
+    check: "tcp-ping"
+    url: $IP_ADDRESS_MONGO
+    icon: https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg
+  - name: redis
+    check: "tcp-ping"
+    url: $IP_ADDRESS_REDIS
+    icon: https://redis.io/favicons/apple-touch-icon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.forwardemail.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://forwardemail.net/img/logo-square.svg
+  name: Forward Email
+  introTitle: "**Forward Email** is the only 100% open-source and privacy-focused email service."
+  introMessage: Our status page uses real-time data from our [GitHub repository](https://github.com/forwardemail/status.forwardemail.net).
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://forwardemail.net
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/forwardemail
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: ""
