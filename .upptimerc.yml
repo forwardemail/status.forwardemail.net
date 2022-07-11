@@ -58,4 +58,4 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: ""
+  footer: "**Subscribe to real-time updates:** Visit our [GitHub repository](https://github.com/forwardemail/status.forwardemail.net) and click on the _Notifications_ dropdown and select _All Activity_."
