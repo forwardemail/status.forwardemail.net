@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "time": 214,
+    "timeDay": 214,
+    "timeWeek": 214,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 50,
-    "timeDay": 50,
-    "timeWeek": 50,
-    "timeMonth": 50,
-    "timeYear": 50,
+    "time": 46,
+    "timeDay": 46,
+    "timeWeek": 46,
+    "timeMonth": 46,
+    "timeYear": 46,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 51,
-    "timeDay": 51,
-    "timeWeek": 51,
-    "timeMonth": 51,
-    "timeYear": 51,
+    "time": 48,
+    "timeDay": 48,
+    "timeWeek": 48,
+    "timeMonth": 48,
+    "timeYear": 48,
     "dailyMinutesDown": {}
   },
   {
@@ -77,11 +77,31 @@
     "icon": "https://raw.githubusercontent.com/breejs/bree/master/favicon.ico",
     "slug": "bree",
     "status": "down",
-    "uptime": "2.92%",
-    "uptimeDay": "2.92%",
-    "uptimeWeek": "2.92%",
-    "uptimeMonth": "2.92%",
-    "uptimeYear": "2.92%",
+    "uptime": "7.20%",
+    "uptimeDay": "7.20%",
+    "uptimeWeek": "7.20%",
+    "uptimeMonth": "7.20%",
+    "uptimeYear": "7.20%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-07-11": 44
+    }
+  },
+  {
+    "name": "mongo",
+    "url": "$IP_ADDRESS_MONGO",
+    "icon": "https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg",
+    "slug": "mongo",
+    "status": "down",
+    "uptime": "7.38%",
+    "uptimeDay": "7.38%",
+    "uptimeWeek": "7.38%",
+    "uptimeMonth": "7.38%",
+    "uptimeYear": "7.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -92,43 +112,23 @@
     }
   },
   {
-    "name": "mongo",
-    "url": "$IP_ADDRESS_MONGO",
-    "icon": "https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg",
-    "slug": "mongo",
-    "status": "down",
-    "uptime": "2.99%",
-    "uptimeDay": "2.99%",
-    "uptimeWeek": "2.99%",
-    "uptimeMonth": "2.99%",
-    "uptimeYear": "2.99%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-07-11": 41
-    }
-  },
-  {
     "name": "redis",
     "url": "$IP_ADDRESS_REDIS",
     "icon": "https://redis.io/favicons/apple-touch-icon.png",
     "slug": "redis",
     "status": "down",
-    "uptime": "3.05%",
-    "uptimeDay": "3.05%",
-    "uptimeWeek": "3.05%",
-    "uptimeMonth": "3.05%",
-    "uptimeYear": "3.05%",
+    "uptime": "7.60%",
+    "uptimeDay": "7.60%",
+    "uptimeWeek": "7.60%",
+    "uptimeMonth": "7.60%",
+    "uptimeYear": "7.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-11": 40
+      "2022-07-11": 42
     }
   }
 ]
