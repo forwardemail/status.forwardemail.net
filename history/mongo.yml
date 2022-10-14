@@ -1,7 +1,7 @@
 url: $IP_ADDRESS_MONGO
 status: up
 code: 200
-responseTime: 43
-lastUpdated: 2022-10-13T23:05:13.934Z
+responseTime: 8
+lastUpdated: 2022-10-14T23:04:33.513Z
 startTime: Mon Jul 11 2022 04:33:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
