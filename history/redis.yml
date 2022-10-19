@@ -1,7 +1,7 @@
 url: $IP_ADDRESS_REDIS
 status: up
 code: 200
-responseTime: 77
-lastUpdated: 2022-10-18T23:04:36.606Z
+responseTime: 12
+lastUpdated: 2022-10-19T23:05:14.123Z
 startTime: Mon Jul 11 2022 04:34:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
