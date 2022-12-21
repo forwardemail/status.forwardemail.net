@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 307,
-    "timeWeek": 352,
-    "timeMonth": 299,
-    "timeYear": 287,
+    "time": 286,
+    "timeDay": 276,
+    "timeWeek": 329,
+    "timeMonth": 305,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 259,
-    "timeWeek": 313,
-    "timeMonth": 313,
+    "timeDay": 236,
+    "timeWeek": 291,
+    "timeMonth": 316,
     "timeYear": 238,
     "dailyMinutesDown": {}
   },
@@ -41,18 +41,19 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx1-forwardemail-net",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "82.84%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.86%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.86%",
     "time": 62,
-    "timeDay": 75,
-    "timeWeek": 49,
+    "timeDay": 70,
+    "timeWeek": 56,
     "timeMonth": 66,
     "timeYear": 62,
     "dailyMinutesDown": {
-      "2022-12-20": 247
+      "2022-12-21": 9,
+      "2022-12-20": 321
     }
   },
   {
@@ -61,18 +62,19 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "82.84%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.86%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.86%",
     "time": 59,
-    "timeDay": 65,
-    "timeWeek": 75,
-    "timeMonth": 65,
+    "timeDay": 74,
+    "timeWeek": 73,
+    "timeMonth": 66,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2022-12-20": 247
+      "2022-12-21": 9,
+      "2022-12-20": 321
     }
   },
   {
@@ -87,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 38,
-    "timeWeek": 57,
-    "timeMonth": 45,
+    "timeDay": 41,
+    "timeWeek": 52,
+    "timeMonth": 46,
     "timeYear": 41,
     "dailyMinutesDown": {}
   },
@@ -105,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 41,
-    "timeWeek": 58,
+    "timeDay": 40,
+    "timeWeek": 53,
     "timeMonth": 66,
     "timeYear": 44,
     "dailyMinutesDown": {}
@@ -123,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 39,
-    "timeWeek": 57,
-    "timeMonth": 45,
+    "timeDay": 38,
+    "timeWeek": 52,
+    "timeMonth": 46,
     "timeYear": 40,
     "dailyMinutesDown": {}
   }
