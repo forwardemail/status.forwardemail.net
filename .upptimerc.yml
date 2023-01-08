@@ -31,7 +31,7 @@ sites:
     check: "tcp-ping"
   - name: redis
     url: $IP_ADDRESS_REDIS
-    icon: https://redis.io/favicons/apple-touch-icon.png
+    icon: https://redis.io/images/favicons/favicon.ico
     port: 22
     check: "tcp-ping"
 
