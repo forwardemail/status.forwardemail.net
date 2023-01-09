@@ -44,7 +44,7 @@ status-website:
   favicon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/apple-touch-icon.png
   faviconSvg: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/logo-square.svg
   name: Status Page | Forward Email
-  customHtmlHead: "<meta name=\"robots\" content=\"noindex nofollow noarchive noimageindex\">"
+  customHeadHtml: "<meta name=\"robots\" content=\"noindex nofollow noarchive noimageindex\">"
   introTitle: "**Forward Email** is the only 100% open-source and privacy-focused email service."
   introMessage: Our status page uses real-time data from our [GitHub repository](https://github.com/forwardemail/status.forwardemail.net).
   navbar:
