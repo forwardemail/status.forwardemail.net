@@ -4,36 +4,40 @@
     "url": "https://forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 270,
     "timeWeek": 318,
     "timeMonth": 229,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 4
+    }
   },
   {
     "name": "api.forwardemail.net",
     "url": "https://api.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-forwardemail-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 249,
     "timeWeek": 290,
     "timeMonth": 219,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 4
+    }
   },
   {
     "name": "mx1.forwardemail.net",
@@ -76,28 +80,30 @@
     "url": "$IP_ADDRESS_BREE",
     "icon": "https://raw.githubusercontent.com/breejs/bree/master/favicon.ico",
     "slug": "bree",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 39,
     "timeDay": 42,
     "timeWeek": 47,
     "timeMonth": 32,
     "timeYear": 39,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 3
+    }
   },
   {
     "name": "mongo",
     "url": "$IP_ADDRESS_MONGO",
     "icon": "https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg",
     "slug": "mongo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
@@ -105,16 +111,18 @@
     "timeWeek": 47,
     "timeMonth": 32,
     "timeYear": 41,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 1
+    }
   },
   {
     "name": "redis",
     "url": "$IP_ADDRESS_REDIS",
     "icon": "https://redis.io/images/favicons/favicon.ico",
     "slug": "redis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +131,8 @@
     "timeWeek": 48,
     "timeMonth": 33,
     "timeYear": 38,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 0
+    }
   }
 ]
