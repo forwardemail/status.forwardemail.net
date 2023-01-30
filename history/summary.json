@@ -6,18 +6,16 @@
     "slug": "forwardemail-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 1022,
-    "timeWeek": 500,
-    "timeMonth": 272,
+    "timeDay": 1020,
+    "timeWeek": 482,
+    "timeMonth": 271,
     "timeYear": 282,
-    "dailyMinutesDown": {
-      "2023-01-29": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.forwardemail.net",
@@ -26,18 +24,16 @@
     "slug": "api-forwardemail-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 653,
-    "timeWeek": 386,
+    "timeDay": 661,
+    "timeWeek": 377,
     "timeMonth": 242,
     "timeYear": 238,
-    "dailyMinutesDown": {
-      "2023-01-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mx1.forwardemail.net",
@@ -51,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 68,
-    "timeDay": 60,
-    "timeWeek": 177,
+    "timeDay": 64,
+    "timeWeek": 181,
     "timeMonth": 95,
     "timeYear": 68,
     "dailyMinutesDown": {}
@@ -70,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 58,
     "timeDay": 73,
-    "timeWeek": 70,
+    "timeWeek": 68,
     "timeMonth": 52,
     "timeYear": 58,
     "dailyMinutesDown": {}
@@ -82,18 +78,16 @@
     "slug": "bree",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 243,
-    "timeWeek": 97,
+    "timeDay": 242,
+    "timeWeek": 95,
     "timeMonth": 44,
     "timeYear": 41,
-    "dailyMinutesDown": {
-      "2023-01-29": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mongo",
@@ -102,18 +96,16 @@
     "slug": "mongo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 135,
-    "timeWeek": 70,
+    "timeDay": 136,
+    "timeWeek": 68,
     "timeMonth": 38,
     "timeYear": 42,
-    "dailyMinutesDown": {
-      "2023-01-29": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "redis",
@@ -122,17 +114,15 @@
     "slug": "redis",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 349,
-    "timeWeek": 124,
+    "timeDay": 347,
+    "timeWeek": 121,
     "timeMonth": 50,
     "timeYear": 41,
-    "dailyMinutesDown": {
-      "2023-01-29": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
