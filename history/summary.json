@@ -24,9 +24,9 @@
     "slug": "api-forwardemail-net",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "91.75%",
-    "uptimeMonth": "97.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "97.86%",
     "uptimeYear": "99.75%",
     "time": 263,
     "timeDay": 251,
@@ -34,7 +34,6 @@
     "timeMonth": 486,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2023-03-28": 9,
       "2023-03-22": 117,
       "2023-03-21": 706,
       "2023-03-20": 28,
@@ -90,9 +89,9 @@
     "url": "$IP_ADDRESS_BREE",
     "icon": "https://raw.githubusercontent.com/breejs/bree/master/favicon.ico",
     "slug": "bree",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -101,7 +100,9 @@
     "timeWeek": 24,
     "timeMonth": 36,
     "timeYear": 40,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-28": 0
+    }
   },
   {
     "name": "mongo",
