@@ -6,25 +6,25 @@ sites:
   - name: forwardemail.net
     url: https://forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-  - name: web-vu-sj-ca (forwardemail.net - Vultr - San Jose, California, USA)
-    url: https://45.63.88.165
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-    __dangerous__disable_verify_host: true
-  - name: web-do-am-nl (forwardemail.net - Digital Ocean - Amsterdam, Netherlands, Europe)
-    url: https://159.223.238.2
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-    __dangerous__disable_verify_host: true
+  # - name: web-vu-sj-ca (forwardemail.net - Vultr - San Jose, California, USA)
+  #   url: https://45.63.88.165
+  #   icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+  #   __dangerous__disable_verify_host: true
+  # - name: web-do-am-nl (forwardemail.net - Digital Ocean - Amsterdam, Netherlands, Europe)
+  #   url: https://159.223.238.2
+  #   icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+  #   __dangerous__disable_verify_host: true
   - name: api.forwardemail.net
     url: https://api.forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-  - name: api-vu-sj-ca (api.forwardemail.net - Vultr - San Jose, California, USA)
-    url: https://149.28.198.68
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-    __dangerous__disable_verify_host: true
-  - name: api-do-am-nl (api.forwardemail.net - Digital Ocean - Amsterdam, Netherlands, Europe)
-    url: https://164.92.213.75
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-    __dangerous__disable_verify_host: true
+  # - name: api-vu-sj-ca (api.forwardemail.net - Vultr - San Jose, California, USA)
+  #   url: https://149.28.198.68
+  #   icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+  #   __dangerous__disable_verify_host: true
+  # - name: api-do-am-nl (api.forwardemail.net - Digital Ocean - Amsterdam, Netherlands, Europe)
+  #   url: https://164.92.213.75
+  #   icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+  #   __dangerous__disable_verify_host: true
   - name: mx1.forwardemail.net
     url: mx1.forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
