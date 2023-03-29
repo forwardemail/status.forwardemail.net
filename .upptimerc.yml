@@ -40,21 +40,22 @@ sites:
     icon: https://raw.githubusercontent.com/breejs/bree/master/favicon.ico
     port: 22
     check: "tcp-ping"
-  - name: mongo
-    url: $MONGO_HOST
-    icon: https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg
-    port: $MONGO_PORT
-    check: "tcp-ping"
-  - name: logs
-    url: $LOGS_HOST
-    icon: https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg
-    port: $LOGS_PORT
-    check: "tcp-ping"
-  - name: redis
-    url: $REDIS_HOST
-    icon: https://redis.io/images/favicons/favicon.ico
-    port: $REDIS_PORT
-    check: "tcp-ping"
+  # we cannot test these because they do not allow ping on managed dbs and ip-restricted access list only
+  # - name: mongo
+  #   url: $MONGO_HOST
+  #   icon: https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg
+  #   port: $MONGO_PORT
+  #   check: "tcp-ping"
+  # - name: logs
+  #   url: $LOGS_HOST
+  #   icon: https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg
+  #   port: $LOGS_PORT
+  #   check: "tcp-ping"
+  # - name: redis
+  #   url: $REDIS_HOST
+  #   icon: https://redis.io/images/favicons/favicon.ico
+  #   port: $REDIS_PORT
+  #   check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
