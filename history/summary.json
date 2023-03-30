@@ -43,20 +43,18 @@
     "url": "mx1.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx1-forwardemail-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 68,
-    "timeDay": 86,
-    "timeWeek": 73,
-    "timeMonth": 72,
+    "timeDay": 87,
+    "timeWeek": 74,
+    "timeMonth": 73,
     "timeYear": 68,
-    "dailyMinutesDown": {
-      "2023-03-30": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mx2.forwardemail.net",
