@@ -22,11 +22,11 @@
     "url": "https://api.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-forwardemail-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 1155,
@@ -34,7 +34,7 @@
     "timeMonth": 545,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2023-04-04": 9
+      "2023-04-04": 0
     }
   },
   {
