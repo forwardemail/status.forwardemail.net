@@ -58,20 +58,18 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
-    "timeDay": 20,
-    "timeWeek": 43,
+    "timeDay": 42,
+    "timeWeek": 46,
     "timeMonth": 51,
     "timeYear": 56,
-    "dailyMinutesDown": {
-      "2023-04-28": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bree",
