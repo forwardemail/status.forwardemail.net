@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 226,
-    "timeWeek": 315,
-    "timeMonth": 332,
-    "timeYear": 279,
+    "time": 280,
+    "timeDay": 411,
+    "timeWeek": 348,
+    "timeMonth": 323,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 99,
-    "timeWeek": 175,
-    "timeMonth": 544,
+    "timeDay": 220,
+    "timeWeek": 196,
+    "timeMonth": 560,
     "timeYear": 308,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 17,
-    "timeWeek": 54,
+    "timeDay": 88,
+    "timeWeek": 64,
     "timeMonth": 65,
     "timeYear": 67,
     "dailyMinutesDown": {}
@@ -58,18 +58,20 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
-    "timeDay": 80,
-    "timeWeek": 52,
+    "timeDay": 20,
+    "timeWeek": 43,
     "timeMonth": 51,
     "timeYear": 56,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-28": 0
+    }
   },
   {
     "name": "bree",
@@ -83,8 +85,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 18,
-    "timeWeek": 42,
+    "timeDay": 65,
+    "timeWeek": 49,
     "timeMonth": 46,
     "timeYear": 41,
     "dailyMinutesDown": {}
