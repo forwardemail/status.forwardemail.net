@@ -25,6 +25,16 @@ sites:
   #   url: https://164.92.213.75
   #   icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
   #   __dangerous__disable_verify_host: true
+  - name: smtp.forwardemail.net (TLS)
+    url: smtp.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 587
+    check: "tcp-ping"
+  - name: smtp.forwardemail.net (SSL)
+    url: smtp.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 465
+    check: "tcp-ping"
   - name: mx1.forwardemail.net
     url: mx1.forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
