@@ -40,19 +40,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-tls",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 51,
-    "timeDay": 51,
-    "timeWeek": 51,
-    "timeMonth": 51,
-    "timeYear": 51,
+    "status": "up",
+    "uptime": "97.75%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "97.75%",
+    "time": 50,
+    "timeDay": 50,
+    "timeWeek": 50,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {
-      "2023-05-22": 1
+      "2023-05-22": 26
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-ssl",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 44,
-    "timeDay": 44,
-    "timeWeek": 44,
-    "timeMonth": 44,
-    "timeYear": 44,
+    "status": "up",
+    "uptime": "97.85%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "97.85%",
+    "time": 42,
+    "timeDay": 42,
+    "timeWeek": 42,
+    "timeMonth": 42,
+    "timeYear": 42,
     "dailyMinutesDown": {
-      "2023-05-22": 0
+      "2023-05-22": 25
     }
   },
   {
