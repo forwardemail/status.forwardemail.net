@@ -6,9 +6,9 @@
     "slug": "forwardemail-net",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 183,
@@ -16,7 +16,7 @@
     "timeMonth": 474,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2023-09-11": 0
+      "2023-09-11": 7
     }
   },
   {
