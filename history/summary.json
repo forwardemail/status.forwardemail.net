@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 260,
+    "timeDay": 177,
     "timeWeek": 344,
-    "timeMonth": 384,
+    "timeMonth": 377,
     "timeYear": 333,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 144,
-    "timeWeek": 182,
-    "timeMonth": 212,
-    "timeYear": 309,
+    "timeDay": 139,
+    "timeWeek": 181,
+    "timeMonth": 209,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 62,
-    "timeWeek": 85,
+    "timeDay": 141,
+    "timeWeek": 90,
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {}
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 121,
-    "timeWeek": 92,
+    "time": 92,
+    "timeDay": 52,
+    "timeWeek": 88,
     "timeMonth": 97,
-    "timeYear": 93,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   },
   {
@@ -78,18 +78,16 @@
     "slug": "mx1-forwardemail-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 37,
-    "timeWeek": 49,
-    "timeMonth": 55,
+    "timeDay": 26,
+    "timeWeek": 47,
+    "timeMonth": 53,
     "timeYear": 67,
-    "dailyMinutesDown": {
-      "2023-09-26": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mx2.forwardemail.net",
@@ -103,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 53,
-    "timeDay": 72,
-    "timeWeek": 44,
-    "timeMonth": 46,
+    "timeDay": 92,
+    "timeWeek": 45,
+    "timeMonth": 47,
     "timeYear": 53,
     "dailyMinutesDown": {}
   },
@@ -123,7 +121,7 @@
     "time": 45,
     "timeDay": 20,
     "timeWeek": 44,
-    "timeMonth": 47,
+    "timeMonth": 46,
     "timeYear": 45,
     "dailyMinutesDown": {}
   }
