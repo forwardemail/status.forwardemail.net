@@ -77,18 +77,19 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-forwardemail-net-tls",
     "status": "down",
-    "uptime": "0.88%",
-    "uptimeDay": "0.88%",
-    "uptimeWeek": "0.88%",
-    "uptimeMonth": "0.88%",
-    "uptimeYear": "0.88%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 0
+      "2023-10-17": 10,
+      "2023-10-16": 54
     }
   },
   {
