@@ -6,18 +6,16 @@
     "slug": "forwardemail-net",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
+    "time": 327,
     "timeDay": 528,
     "timeWeek": 398,
     "timeMonth": 346,
-    "timeYear": 338,
-    "dailyMinutesDown": {
-      "2023-10-18": 0
-    }
+    "timeYear": 339,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.forwardemail.net",
