@@ -55,6 +55,11 @@ sites:
     icon: https://raw.githubusercontent.com/breejs/bree/master/favicon.ico
     port: 22
     check: "tcp-ping"
+  - name: sqlite.forwardemail.net
+    url: sqlite.forwardemail.net
+    icon: https://sqlite.org/favicon.ico
+    port: 22
+    check: "tcp-ping"
   # we cannot test these because they do not allow ping on managed dbs and ip-restricted access list only
   # - name: mongo
   #   url: $MONGO_HOST
