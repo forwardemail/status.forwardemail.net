@@ -148,19 +148,17 @@
     "url": "sqlite.forwardemail.net",
     "icon": "https://sqlite.org/favicon.ico",
     "slug": "sqlite-forwardemail-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 55,
-    "timeDay": 92,
-    "timeWeek": 55,
-    "timeMonth": 55,
-    "timeYear": 55,
-    "dailyMinutesDown": {
-      "2023-11-13": 0
-    }
+    "time": 58,
+    "timeDay": 87,
+    "timeWeek": 58,
+    "timeMonth": 58,
+    "timeYear": 58,
+    "dailyMinutesDown": {}
   }
 ]
