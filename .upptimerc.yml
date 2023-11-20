@@ -50,8 +50,8 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 25
     check: "tcp-ping"
-  - name: bree
-    url: $IP_ADDRESS_BREE
+  - name: bree.forwardemail.net
+    url: bree.forwardemail.net
     icon: https://raw.githubusercontent.com/breejs/bree/master/favicon.ico
     port: 22
     check: "tcp-ping"
