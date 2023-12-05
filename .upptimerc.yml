@@ -40,6 +40,11 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 993
     check: "tcp-ping"
+  - name: pop3.forwardemail.net (TLS)
+    url: pop3.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 995
+    check: "tcp-ping"
   - name: mx1.forwardemail.net
     url: mx1.forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
