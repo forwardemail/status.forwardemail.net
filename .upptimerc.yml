@@ -38,12 +38,12 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
 
   - name: api.forwardemail.net:443 (IPv4)
-    url: https://api.forwardemail.net
+    url: api.forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 443
     check: "tcp-ping"
   - name: api.forwardemail.net:443 (IPv6)
-    url: https://api.forwardemail.net
+    url: api.forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 443
     check: "tcp-ping"
