@@ -1,7 +1,7 @@
 url: smtp.forwardemail.net
-status: up
-code: 200
-responseTime: 62
-lastUpdated: 2023-12-18T23:04:29.976Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-19T05:42:17.359Z
 startTime: 2023-12-09T04:46:30.608Z
 generator: Upptime <https://github.com/upptime/upptime>
