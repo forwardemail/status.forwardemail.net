@@ -438,12 +438,12 @@
     "slug": "imap-forwardemail-net-2993-i-pv4",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 81,
-    "timeDay": 68,
+    "timeDay": 73,
     "timeWeek": 77,
     "timeMonth": 81,
     "timeYear": 81,
@@ -510,18 +510,19 @@
     "url": "pop3.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "pop3-forwardemail-net-2995-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 50,
-    "timeDay": 65,
+    "timeDay": 68,
     "timeWeek": 54,
     "timeMonth": 50,
     "timeYear": 50,
     "dailyMinutesDown": {
+      "2023-12-25": 0,
       "2023-12-24": 26
     }
   },
@@ -530,9 +531,9 @@
     "url": "pop3.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "pop3-forwardemail-net-2995-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -541,7 +542,9 @@
     "timeWeek": 52,
     "timeMonth": 49,
     "timeYear": 49,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-25": 0
+    }
   },
   {
     "name": "mx1.forwardemail.net:25 (IPv4)",
