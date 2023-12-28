@@ -437,19 +437,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-forwardemail-net-2993-i-pv4",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 82,
     "timeDay": 77,
     "timeWeek": 81,
     "timeMonth": 82,
     "timeYear": 82,
-    "dailyMinutesDown": {
-      "2023-12-28": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "imap.forwardemail.net:2993 (IPv6)",
@@ -510,9 +508,9 @@
     "url": "pop3.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "pop3-forwardemail-net-2995-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -521,16 +519,18 @@
     "timeWeek": 52,
     "timeMonth": 51,
     "timeYear": 51,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-28": 0
+    }
   },
   {
     "name": "pop3.forwardemail.net:2995 (IPv6)",
     "url": "pop3.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "pop3-forwardemail-net-2995-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -539,7 +539,9 @@
     "timeWeek": 51,
     "timeMonth": 51,
     "timeYear": 51,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-28": 0
+    }
   },
   {
     "name": "mx1.forwardemail.net:25 (IPv4)",
