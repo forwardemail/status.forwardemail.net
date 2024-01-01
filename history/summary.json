@@ -580,20 +580,18 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net-25-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 62,
-    "timeWeek": 51,
+    "timeDay": 45,
+    "timeWeek": 48,
     "timeMonth": 45,
     "timeYear": 45,
-    "dailyMinutesDown": {
-      "2024-01-01": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mx2.forwardemail.net:25 (IPv6)",
