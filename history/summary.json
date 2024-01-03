@@ -6,7 +6,7 @@
     "slug": "https-forwardemail-net-curl",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 434,
     "timeMonth": 475,
     "timeYear": 475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "forwardemail.net:443 (IPv4)",
@@ -24,7 +26,7 @@
     "slug": "forwardemail-net-443-i-pv4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 24,
     "timeMonth": 39,
     "timeYear": 39,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "forwardemail.net:443 (IPv6)",
     "url": "forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-443-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 24,
     "timeMonth": 39,
     "timeYear": 39,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "forwardemail.net:80 (IPv4)",
     "url": "forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-80-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 24,
     "timeMonth": 40,
     "timeYear": 40,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "forwardemail.net:80 (IPv6)",
     "url": "forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-80-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +95,9 @@
     "timeWeek": 24,
     "timeMonth": 39,
     "timeYear": 39,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "https://api.forwardemail.net (curl)",
@@ -221,19 +231,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2587-i-pv4",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 88,
     "timeDay": 138,
-    "timeWeek": 105,
+    "timeWeek": 116,
     "timeMonth": 88,
     "timeYear": 88,
-    "dailyMinutesDown": {
-      "2024-01-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:2587 (IPv6)",
@@ -248,7 +256,7 @@
     "uptimeYear": "100.00%",
     "time": 86,
     "timeDay": 20,
-    "timeWeek": 65,
+    "timeWeek": 71,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {}
@@ -301,8 +309,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 101,
-    "timeWeek": 65,
+    "timeDay": 137,
+    "timeWeek": 70,
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {}
@@ -320,7 +328,7 @@
     "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 21,
-    "timeWeek": 82,
+    "timeWeek": 91,
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {}
@@ -338,7 +346,7 @@
     "uptimeYear": "100.00%",
     "time": 75,
     "timeDay": 134,
-    "timeWeek": 64,
+    "timeWeek": 71,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {}
@@ -356,7 +364,7 @@
     "uptimeYear": "100.00%",
     "time": 73,
     "timeDay": 20,
-    "timeWeek": 84,
+    "timeWeek": 93,
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {}
@@ -367,19 +375,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2525-i-pv4",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 88,
     "timeDay": 80,
-    "timeWeek": 111,
+    "timeWeek": 116,
     "timeMonth": 88,
     "timeYear": 88,
-    "dailyMinutesDown": {
-      "2024-01-03": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:2525 (IPv6)",
@@ -394,7 +400,7 @@
     "uptimeYear": "100.00%",
     "time": 78,
     "timeDay": 21,
-    "timeWeek": 63,
+    "timeWeek": 70,
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {}
@@ -448,7 +454,7 @@
     "uptimeYear": "100.00%",
     "time": 83,
     "timeDay": 135,
-    "timeWeek": 83,
+    "timeWeek": 91,
     "timeMonth": 83,
     "timeYear": 83,
     "dailyMinutesDown": {}
@@ -466,7 +472,7 @@
     "uptimeYear": "100.00%",
     "time": 66,
     "timeDay": 20,
-    "timeWeek": 32,
+    "timeWeek": 33,
     "timeMonth": 66,
     "timeYear": 66,
     "dailyMinutesDown": {}
@@ -520,7 +526,7 @@
     "uptimeYear": "100.00%",
     "time": 46,
     "timeDay": 19,
-    "timeWeek": 34,
+    "timeWeek": 30,
     "timeMonth": 46,
     "timeYear": 46,
     "dailyMinutesDown": {}
@@ -538,7 +544,7 @@
     "uptimeYear": "100.00%",
     "time": 45,
     "timeDay": 19,
-    "timeWeek": 34,
+    "timeWeek": 30,
     "timeMonth": 45,
     "timeYear": 45,
     "dailyMinutesDown": {}
