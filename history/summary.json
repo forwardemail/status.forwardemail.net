@@ -581,18 +581,18 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net-25-i-pv4",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "97.13%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 45,
     "timeDay": 42,
     "timeWeek": 54,
     "timeMonth": 45,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2024-01-03": 41
+      "2024-01-03": 34
     }
   },
   {
@@ -601,18 +601,18 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net-25-i-pv6",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "97.13%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 43,
     "timeDay": 42,
     "timeWeek": 57,
     "timeMonth": 43,
     "timeYear": 43,
     "dailyMinutesDown": {
-      "2024-01-03": 41
+      "2024-01-03": 34
     }
   },
   {
