@@ -478,8 +478,8 @@
     "slug": "imap-forwardemail-net-2993-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
@@ -487,9 +487,7 @@
     "timeWeek": 53,
     "timeMonth": 65,
     "timeYear": 65,
-    "dailyMinutesDown": {
-      "2024-01-07": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pop3.forwardemail.net:995 (IPv4)",
@@ -516,8 +514,8 @@
     "slug": "pop3-forwardemail-net-995-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
@@ -525,9 +523,7 @@
     "timeWeek": 49,
     "timeMonth": 47,
     "timeYear": 47,
-    "dailyMinutesDown": {
-      "2024-01-07": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pop3.forwardemail.net:2995 (IPv4)",
@@ -554,8 +550,8 @@
     "slug": "pop3-forwardemail-net-2995-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
@@ -563,9 +559,7 @@
     "timeWeek": 47,
     "timeMonth": 46,
     "timeYear": 46,
-    "dailyMinutesDown": {
-      "2024-01-07": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mx1.forwardemail.net:25 (IPv4)",
@@ -592,8 +586,8 @@
     "slug": "mx1-forwardemail-net-25-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
@@ -601,9 +595,7 @@
     "timeWeek": 38,
     "timeMonth": 42,
     "timeYear": 42,
-    "dailyMinutesDown": {
-      "2024-01-07": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mx2.forwardemail.net:25 (IPv4)",
@@ -632,8 +624,8 @@
     "slug": "mx2-forwardemail-net-25-i-pv6",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 41,
@@ -642,7 +634,6 @@
     "timeMonth": 41,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2024-01-07": 2,
       "2024-01-03": 34
     }
   },
