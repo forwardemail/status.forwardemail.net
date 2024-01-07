@@ -19,7 +19,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 443
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: forwardemail.net:80 (IPv4)
     url: forwardemail.net
@@ -31,7 +31,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 80
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: https://api.forwardemail.net (curl)
     url: https://api.forwardemail.net
@@ -47,7 +47,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 443
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: api.forwardemail.net:80 (IPv4)
     url: api.forwardemail.net
@@ -59,7 +59,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 80
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: smtp.forwardemail.net:587 (IPv4)
     url: smtp.forwardemail.net
@@ -71,7 +71,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 587
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: smtp.forwardemail.net:2587 (IPv4)
     url: smtp.forwardemail.net
@@ -83,7 +83,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 2587
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: smtp.forwardemail.net:465 (IPv4)
     url: smtp.forwardemail.net
@@ -95,7 +95,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 465
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: smtp.forwardemail.net:2465 (IPv4)
     url: smtp.forwardemail.net
@@ -107,7 +107,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 2465
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: smtp.forwardemail.net:25 (IPv4)
     url: smtp.forwardemail.net
@@ -119,7 +119,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 25
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: smtp.forwardemail.net:2525 (IPv4)
     url: smtp.forwardemail.net
@@ -131,7 +131,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 2525
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: imap.forwardemail.net:993 (IPv4)
     url: imap.forwardemail.net
@@ -143,7 +143,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 993
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: imap.forwardemail.net:2993 (IPv4)
     url: imap.forwardemail.net
@@ -155,7 +155,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 2993
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: pop3.forwardemail.net:995 (IPv4)
     url: pop3.forwardemail.net
@@ -167,7 +167,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 995
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: pop3.forwardemail.net:2995 (IPv4)
     url: pop3.forwardemail.net
@@ -179,7 +179,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 2995
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: mx1.forwardemail.net:25 (IPv4)
     url: mx1.forwardemail.net
@@ -191,7 +191,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 25
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: mx2.forwardemail.net:25 (IPv4)
     url: mx2.forwardemail.net
@@ -203,7 +203,7 @@ sites:
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 25
     check: "tcp-ping"
-    ipv6: false
+    ipv6: true
 
   - name: bree.forwardemail.net
     url: bree.forwardemail.net
