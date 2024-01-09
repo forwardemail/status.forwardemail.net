@@ -94,60 +94,54 @@
     "url": "https://api.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-api-forwardemail-net-curl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 568,
+    "time": 313,
+    "timeDay": 536,
     "timeWeek": 431,
-    "timeMonth": 320,
-    "timeYear": 310,
-    "dailyMinutesDown": {
-      "2024-01-09": 0
-    }
+    "timeMonth": 323,
+    "timeYear": 313,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.forwardemail.net:443 (IPv4)",
     "url": "api.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-forwardemail-net-443-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 42,
-    "timeDay": 12,
-    "timeWeek": 45,
+    "time": 43,
+    "timeDay": 26,
+    "timeWeek": 47,
     "timeMonth": 43,
-    "timeYear": 42,
-    "dailyMinutesDown": {
-      "2024-01-09": 0
-    }
+    "timeYear": 43,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.forwardemail.net:443 (IPv6)",
     "url": "api.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-forwardemail-net-443-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 10,
-    "timeWeek": 44,
-    "timeMonth": 42,
+    "timeDay": 28,
+    "timeWeek": 46,
+    "timeMonth": 43,
     "timeYear": 42,
-    "dailyMinutesDown": {
-      "2024-01-09": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.forwardemail.net:80 (IPv4)",
