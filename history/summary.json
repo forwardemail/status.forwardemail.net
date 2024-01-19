@@ -4,19 +4,19 @@
     "url": "https://forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-forwardemail-net-curl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 918,
-    "timeWeek": 731,
-    "timeMonth": 835,
-    "timeYear": 742,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 740,
+    "timeDay": 829,
+    "timeWeek": 722,
+    "timeMonth": 830,
+    "timeYear": 740,
     "dailyMinutesDown": {
-      "2024-01-19": 0
+      "2024-01-19": 20
     }
   },
   {
