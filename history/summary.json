@@ -202,20 +202,18 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-587-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 83,
-    "timeWeek": 51,
+    "time": 99,
+    "timeDay": 85,
+    "timeWeek": 55,
     "timeMonth": 104,
-    "timeYear": 100,
-    "dailyMinutesDown": {
-      "2024-01-27": 0
-    }
+    "timeYear": 99,
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:2587 (IPv4)",
@@ -338,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 84,
     "timeDay": 75,
-    "timeWeek": 115,
+    "timeWeek": 119,
     "timeMonth": 87,
     "timeYear": 84,
     "dailyMinutesDown": {}
@@ -374,7 +372,7 @@
     "uptimeYear": "100.00%",
     "time": 85,
     "timeDay": 75,
-    "timeWeek": 77,
+    "timeWeek": 75,
     "timeMonth": 88,
     "timeYear": 85,
     "dailyMinutesDown": {}
@@ -384,20 +382,18 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2525-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 83,
-    "timeWeek": 75,
-    "timeMonth": 94,
+    "timeDay": 76,
+    "timeWeek": 74,
+    "timeMonth": 93,
     "timeYear": 89,
-    "dailyMinutesDown": {
-      "2024-01-27": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "imap.forwardemail.net:993 (IPv4)",
