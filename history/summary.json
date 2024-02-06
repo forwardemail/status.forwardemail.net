@@ -4,60 +4,54 @@
     "url": "https://forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-forwardemail-net-curl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 691,
+    "time": 692,
     "timeDay": 771,
-    "timeWeek": 611,
-    "timeMonth": 783,
-    "timeYear": 691,
-    "dailyMinutesDown": {
-      "2024-02-06": 1
-    }
+    "timeWeek": 627,
+    "timeMonth": 775,
+    "timeYear": 692,
+    "dailyMinutesDown": {}
   },
   {
     "name": "forwardemail.net:443 (IPv4)",
     "url": "forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-443-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 43,
-    "timeDay": 69,
-    "timeWeek": 49,
-    "timeMonth": 44,
-    "timeYear": 43,
-    "dailyMinutesDown": {
-      "2024-02-06": 0
-    }
+    "time": 44,
+    "timeDay": 70,
+    "timeWeek": 51,
+    "timeMonth": 45,
+    "timeYear": 44,
+    "dailyMinutesDown": {}
   },
   {
     "name": "forwardemail.net:443 (IPv6)",
     "url": "forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-443-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 43,
-    "timeDay": 69,
-    "timeWeek": 49,
-    "timeMonth": 44,
-    "timeYear": 43,
-    "dailyMinutesDown": {
-      "2024-02-06": 0
-    }
+    "time": 44,
+    "timeDay": 70,
+    "timeWeek": 51,
+    "timeMonth": 45,
+    "timeYear": 44,
+    "dailyMinutesDown": {}
   },
   {
     "name": "forwardemail.net:80 (IPv4)",
@@ -73,7 +67,7 @@
     "time": 39,
     "timeDay": 65,
     "timeWeek": 47,
-    "timeMonth": 37,
+    "timeMonth": 36,
     "timeYear": 39,
     "dailyMinutesDown": {}
   },
@@ -91,7 +85,7 @@
     "time": 39,
     "timeDay": 65,
     "timeWeek": 47,
-    "timeMonth": 37,
+    "timeMonth": 36,
     "timeYear": 39,
     "dailyMinutesDown": {}
   },
@@ -109,7 +103,7 @@
     "time": 297,
     "timeDay": 321,
     "timeWeek": 298,
-    "timeMonth": 323,
+    "timeMonth": 322,
     "timeYear": 297,
     "dailyMinutesDown": {}
   },
@@ -145,7 +139,7 @@
     "time": 44,
     "timeDay": 64,
     "timeWeek": 47,
-    "timeMonth": 45,
+    "timeMonth": 44,
     "timeYear": 44,
     "dailyMinutesDown": {}
   },
@@ -199,7 +193,7 @@
     "time": 91,
     "timeDay": 92,
     "timeWeek": 92,
-    "timeMonth": 86,
+    "timeMonth": 87,
     "timeYear": 91,
     "dailyMinutesDown": {}
   },
@@ -217,7 +211,7 @@
     "time": 100,
     "timeDay": 80,
     "timeWeek": 102,
-    "timeMonth": 108,
+    "timeMonth": 109,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -235,7 +229,7 @@
     "time": 85,
     "timeDay": 72,
     "timeWeek": 82,
-    "timeMonth": 83,
+    "timeMonth": 84,
     "timeYear": 85,
     "dailyMinutesDown": {}
   },
@@ -253,7 +247,7 @@
     "time": 88,
     "timeDay": 79,
     "timeWeek": 103,
-    "timeMonth": 90,
+    "timeMonth": 91,
     "timeYear": 88,
     "dailyMinutesDown": {}
   },
@@ -309,7 +303,7 @@
     "time": 81,
     "timeDay": 65,
     "timeWeek": 78,
-    "timeMonth": 82,
+    "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
       "2024-02-04": 20
@@ -329,7 +323,7 @@
     "time": 82,
     "timeDay": 85,
     "timeWeek": 60,
-    "timeMonth": 85,
+    "timeMonth": 84,
     "timeYear": 82,
     "dailyMinutesDown": {}
   },
@@ -347,7 +341,7 @@
     "time": 82,
     "timeDay": 72,
     "timeWeek": 58,
-    "timeMonth": 88,
+    "timeMonth": 89,
     "timeYear": 82,
     "dailyMinutesDown": {}
   },
@@ -383,7 +377,7 @@
     "time": 84,
     "timeDay": 86,
     "timeWeek": 74,
-    "timeMonth": 82,
+    "timeMonth": 81,
     "timeYear": 84,
     "dailyMinutesDown": {}
   },
@@ -419,7 +413,7 @@
     "time": 82,
     "timeDay": 72,
     "timeWeek": 59,
-    "timeMonth": 83,
+    "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {}
   },
@@ -437,7 +431,7 @@
     "time": 77,
     "timeDay": 86,
     "timeWeek": 90,
-    "timeMonth": 79,
+    "timeMonth": 78,
     "timeYear": 77,
     "dailyMinutesDown": {}
   },
@@ -455,7 +449,7 @@
     "time": 86,
     "timeDay": 80,
     "timeWeek": 76,
-    "timeMonth": 87,
+    "timeMonth": 88,
     "timeYear": 86,
     "dailyMinutesDown": {}
   },
