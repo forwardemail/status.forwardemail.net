@@ -370,8 +370,8 @@
     "slug": "smtp-forwardemail-net-2525-i-pv4",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
@@ -380,7 +380,7 @@
     "timeMonth": 78,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2024-02-11": 0
+      "2024-02-11": 1
     }
   },
   {
@@ -462,7 +462,7 @@
     "slug": "imap-forwardemail-net-2993-i-pv6",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -471,9 +471,7 @@
     "timeWeek": 66,
     "timeMonth": 75,
     "timeYear": 71,
-    "dailyMinutesDown": {
-      "2024-02-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pop3.forwardemail.net:995 (IPv4)",
