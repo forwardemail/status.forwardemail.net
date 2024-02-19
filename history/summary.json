@@ -4,18 +4,20 @@
     "url": "https://forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-forwardemail-net-curl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
-    "timeDay": 830,
+    "timeDay": 794,
     "timeWeek": 703,
-    "timeMonth": 633,
+    "timeMonth": 604,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-19": 0
+    }
   },
   {
     "name": "forwardemail.net:443 (IPv4)",
@@ -263,7 +265,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 69,
+    "timeDay": 71,
     "timeWeek": 72,
     "timeMonth": 79,
     "timeYear": 80,
