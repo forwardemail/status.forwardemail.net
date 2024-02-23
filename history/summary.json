@@ -616,19 +616,19 @@
     "url": "https://caldav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-caldav-forwardemail-net-curl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 959,
-    "timeDay": 307,
-    "timeWeek": 256,
-    "timeMonth": 959,
-    "timeYear": 959,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 924,
+    "timeDay": 259,
+    "timeWeek": 251,
+    "timeMonth": 924,
+    "timeYear": 924,
     "dailyMinutesDown": {
-      "2024-02-23": 0
+      "2024-02-23": 22
     }
   },
   {
