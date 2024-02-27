@@ -616,10 +616,10 @@
     "url": "https://caldav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-caldav-forwardemail-net-curl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 751,
@@ -628,6 +628,7 @@
     "timeMonth": 751,
     "timeYear": 751,
     "dailyMinutesDown": {
+      "2024-02-27": 0,
       "2024-02-23": 40
     }
   },
@@ -728,17 +729,15 @@
     "slug": "sqlite-forwardemail-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
     "timeDay": 26,
     "timeWeek": 38,
     "timeMonth": 49,
     "timeYear": 48,
-    "dailyMinutesDown": {
-      "2024-02-27": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
