@@ -300,7 +300,7 @@
     "uptimeYear": "100.00%",
     "time": 82,
     "timeDay": 112,
-    "timeWeek": 98,
+    "timeWeek": 95,
     "timeMonth": 83,
     "timeYear": 82,
     "dailyMinutesDown": {}
@@ -372,7 +372,7 @@
     "uptimeYear": "100.00%",
     "time": 82,
     "timeDay": 113,
-    "timeWeek": 89,
+    "timeWeek": 84,
     "timeMonth": 78,
     "timeYear": 82,
     "dailyMinutesDown": {}
@@ -390,7 +390,7 @@
     "uptimeYear": "100.00%",
     "time": 87,
     "timeDay": 83,
-    "timeWeek": 75,
+    "timeWeek": 68,
     "timeMonth": 83,
     "timeYear": 87,
     "dailyMinutesDown": {}
@@ -616,18 +616,19 @@
     "url": "https://caldav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-caldav-forwardemail-net-curl",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 630,
     "timeDay": 306,
-    "timeWeek": 265,
+    "timeWeek": 263,
     "timeMonth": 630,
     "timeYear": 630,
     "dailyMinutesDown": {
+      "2024-03-02": 1,
       "2024-03-01": 19,
       "2024-02-23": 40
     }
