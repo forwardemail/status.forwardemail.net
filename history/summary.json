@@ -283,7 +283,7 @@
     "time": 85,
     "timeDay": 137,
     "timeWeek": 63,
-    "timeMonth": 68,
+    "timeMonth": 69,
     "timeYear": 85,
     "dailyMinutesDown": {}
   },
@@ -300,7 +300,7 @@
     "uptimeYear": "100.00%",
     "time": 82,
     "timeDay": 51,
-    "timeWeek": 94,
+    "timeWeek": 97,
     "timeMonth": 83,
     "timeYear": 82,
     "dailyMinutesDown": {}
@@ -328,9 +328,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -339,16 +339,18 @@
     "timeWeek": 95,
     "timeMonth": 85,
     "timeYear": 84,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-03": 0
+    }
   },
   {
     "name": "smtp.forwardemail.net:25 (IPv6)",
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -357,7 +359,9 @@
     "timeWeek": 47,
     "timeMonth": 77,
     "timeYear": 77,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-03": 0
+    }
   },
   {
     "name": "smtp.forwardemail.net:2525 (IPv4)",
@@ -617,18 +621,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-caldav-forwardemail-net-curl",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 603,
     "timeDay": 242,
     "timeWeek": 272,
     "timeMonth": 603,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2024-03-03": 7,
       "2024-03-01": 19,
       "2024-02-23": 40
     }
