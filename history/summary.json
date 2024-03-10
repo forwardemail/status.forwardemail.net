@@ -629,9 +629,9 @@
     "slug": "https-caldav-forwardemail-net-curl",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.78%",
     "time": 533,
     "timeDay": 189,
@@ -639,7 +639,6 @@
     "timeMonth": 292,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-03-09": 4,
       "2024-03-04": 42,
       "2024-03-01": 19,
       "2024-02-23": 40
