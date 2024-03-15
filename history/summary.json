@@ -299,9 +299,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2465-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "98.67%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -311,6 +311,7 @@
     "timeMonth": 86,
     "timeYear": 83,
     "dailyMinutesDown": {
+      "2024-03-15": 0,
       "2024-03-14": 19,
       "2024-03-04": 24
     }
@@ -374,9 +375,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2525-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -386,6 +387,7 @@
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
+      "2024-03-15": 0,
       "2024-03-04": 24
     }
   },
@@ -629,18 +631,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-caldav-forwardemail-net-curl",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.74%",
     "time": 573,
     "timeDay": 578,
     "timeWeek": 563,
     "timeMonth": 406,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2024-03-15": 5,
       "2024-03-13": 20,
       "2024-03-11": 19,
       "2024-03-04": 42,
