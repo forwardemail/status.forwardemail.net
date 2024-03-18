@@ -414,18 +414,16 @@
     "slug": "imap-forwardemail-net-993-i-pv4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
     "timeDay": 70,
     "timeWeek": 43,
     "timeMonth": 47,
     "timeYear": 72,
-    "dailyMinutesDown": {
-      "2024-03-18": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "imap.forwardemail.net:993 (IPv6)",
@@ -630,9 +628,9 @@
     "url": "https://caldav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-caldav-forwardemail-net-curl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.76%",
@@ -642,6 +640,7 @@
     "timeMonth": 396,
     "timeYear": 536,
     "dailyMinutesDown": {
+      "2024-03-18": 0,
       "2024-03-13": 20,
       "2024-03-11": 19,
       "2024-03-04": 42,
