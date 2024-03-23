@@ -12,7 +12,7 @@
     "uptimeYear": "99.87%",
     "time": 711,
     "timeDay": 307,
-    "timeWeek": 507,
+    "timeWeek": 469,
     "timeMonth": 755,
     "timeYear": 711,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.99%",
     "time": 41,
     "timeDay": 18,
-    "timeWeek": 34,
+    "timeWeek": 30,
     "timeMonth": 30,
     "timeYear": 41,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "99.99%",
     "time": 41,
     "timeDay": 19,
-    "timeWeek": 34,
+    "timeWeek": 30,
     "timeMonth": 30,
     "timeYear": 41,
     "dailyMinutesDown": {
@@ -289,7 +289,7 @@
     "uptimeYear": "100.00%",
     "time": 87,
     "timeDay": 134,
-    "timeWeek": 99,
+    "timeWeek": 102,
     "timeMonth": 86,
     "timeYear": 87,
     "dailyMinutesDown": {}
@@ -628,19 +628,19 @@
     "url": "https://caldav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-caldav-forwardemail-net-curl",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.73%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.74%",
     "time": 488,
-    "timeDay": 400,
+    "timeDay": 406,
     "timeWeek": 312,
     "timeMonth": 383,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-03-23": 5,
+      "2024-03-23": 0,
       "2024-03-21": 19,
       "2024-03-20": 16,
       "2024-03-13": 20,
@@ -655,9 +655,9 @@
     "url": "caldav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "caldav-forwardemail-net-443-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -666,7 +666,9 @@
     "timeWeek": 32,
     "timeMonth": 28,
     "timeYear": 40,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-23": 0
+    }
   },
   {
     "name": "caldav.forwardemail.net:443 (IPv6)",
