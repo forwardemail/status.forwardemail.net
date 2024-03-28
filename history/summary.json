@@ -357,37 +357,36 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv6",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 95,
     "timeWeek": 80,
     "timeMonth": 81,
     "timeYear": 79,
-    "dailyMinutesDown": {
-      "2024-03-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:2525 (IPv4)",
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2525-i-pv4",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 80,
     "timeDay": 69,
     "timeWeek": 72,
     "timeMonth": 77,
     "timeYear": 80,
     "dailyMinutesDown": {
+      "2024-03-28": 0,
       "2024-03-04": 24
     }
   },
@@ -451,19 +450,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-forwardemail-net-2993-i-pv4",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 85,
     "timeDay": 64,
     "timeWeek": 59,
     "timeMonth": 97,
     "timeYear": 85,
-    "dailyMinutesDown": {
-      "2024-03-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "imap.forwardemail.net:2993 (IPv6)",
