@@ -1,7 +1,7 @@
 url: imap.forwardemail.net
-status: up
-code: 200
+status: down
+code: 0
 responseTime: 0
-lastUpdated: 2024-04-11T13:22:02.157Z
+lastUpdated: 2024-04-11T13:36:08.921Z
 startTime: 2023-12-09T04:46:33.317Z
 generator: Upptime <https://github.com/upptime/upptime>
