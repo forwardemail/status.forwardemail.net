@@ -334,19 +334,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2465-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 102,
-    "timeWeek": 87,
+    "timeDay": 89,
+    "timeWeek": 85,
     "timeMonth": 82,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2024-04-13": 0
+      "2024-04-13": 9
     }
   },
   {
