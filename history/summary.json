@@ -313,9 +313,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2465-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -325,6 +325,7 @@
     "timeMonth": 83,
     "timeYear": 83,
     "dailyMinutesDown": {
+      "2024-04-16": 0,
       "2024-03-14": 19,
       "2024-03-04": 24
     }
@@ -388,19 +389,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2525-i-pv4",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 81,
     "timeDay": 98,
     "timeWeek": 85,
     "timeMonth": 77,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2024-04-16": 9,
+      "2024-04-16": 0,
       "2024-03-04": 24
     }
   },
@@ -411,18 +412,16 @@
     "slug": "smtp-forwardemail-net-2525-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
     "timeDay": 20,
     "timeWeek": 60,
     "timeMonth": 67,
     "timeYear": 83,
-    "dailyMinutesDown": {
-      "2024-04-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "imap.forwardemail.net:993 (IPv4)",
@@ -661,7 +660,7 @@
     "uptimeYear": "99.21%",
     "time": 686,
     "timeDay": 124,
-    "timeWeek": 385,
+    "timeWeek": 389,
     "timeMonth": 784,
     "timeYear": 686,
     "dailyMinutesDown": {
