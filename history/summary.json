@@ -205,10 +205,10 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-587-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
@@ -216,7 +216,9 @@
     "timeWeek": 88,
     "timeMonth": 80,
     "timeYear": 86,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-17": 1
+    }
   },
   {
     "name": "smtp.forwardemail.net:587 (IPv6)",
@@ -313,19 +315,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2465-i-pv4",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 82,
-    "timeDay": 40,
-    "timeWeek": 69,
+    "timeDay": 44,
+    "timeWeek": 68,
     "timeMonth": 79,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-04-17": 1,
+      "2024-04-17": 8,
       "2024-03-14": 19,
       "2024-03-04": 24
     }
@@ -353,19 +355,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv4",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 78,
-    "timeDay": 89,
-    "timeWeek": 89,
+    "timeDay": 79,
+    "timeWeek": 86,
     "timeMonth": 70,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-04-17": 20
+      "2024-04-17": 28
     }
   },
   {
@@ -391,9 +393,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2525-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -403,6 +405,7 @@
     "timeMonth": 78,
     "timeYear": 82,
     "dailyMinutesDown": {
+      "2024-04-17": 0,
       "2024-03-04": 24
     }
   },
