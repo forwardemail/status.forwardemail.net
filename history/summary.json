@@ -207,37 +207,35 @@
     "slug": "smtp-forwardemail-net-587-i-pv4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
     "timeDay": 53,
     "timeWeek": 76,
     "timeMonth": 77,
     "timeYear": 86,
-    "dailyMinutesDown": {
-      "2024-04-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:587 (IPv6)",
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-587-i-pv6",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 90,
-    "timeDay": 62,
-    "timeWeek": 73,
-    "timeMonth": 82,
+    "timeDay": 52,
+    "timeWeek": 68,
+    "timeMonth": 80,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-04-17": 7
+      "2024-04-17": 14
     }
   },
   {
@@ -301,18 +299,16 @@
     "slug": "smtp-forwardemail-net-465-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
     "timeDay": 51,
     "timeWeek": 75,
     "timeMonth": 80,
     "timeYear": 85,
-    "dailyMinutesDown": {
-      "2024-04-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:2465 (IPv4)",
@@ -659,11 +655,11 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-caldav-forwardemail-net-curl",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.51%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 676,
     "timeDay": 234,
     "timeWeek": 269,
