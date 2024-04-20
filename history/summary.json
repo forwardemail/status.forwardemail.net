@@ -241,10 +241,10 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2587-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
@@ -253,6 +253,7 @@
     "timeMonth": 81,
     "timeYear": 83,
     "dailyMinutesDown": {
+      "2024-04-20": 0,
       "2024-04-17": 1
     }
   },
@@ -261,10 +262,10 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2587-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
@@ -273,6 +274,7 @@
     "timeMonth": 73,
     "timeYear": 86,
     "dailyMinutesDown": {
+      "2024-04-20": 0,
       "2024-04-17": 1
     }
   },
@@ -319,9 +321,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2465-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -331,6 +333,7 @@
     "timeMonth": 70,
     "timeYear": 81,
     "dailyMinutesDown": {
+      "2024-04-20": 0,
       "2024-03-14": 19,
       "2024-03-04": 24
     }
@@ -396,9 +399,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2525-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -408,6 +411,7 @@
     "timeMonth": 82,
     "timeYear": 81,
     "dailyMinutesDown": {
+      "2024-04-20": 0,
       "2024-03-04": 24
     }
   },
@@ -472,9 +476,9 @@
     "slug": "imap-forwardemail-net-2993-i-pv4",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.87%",
     "time": 79,
     "timeDay": 67,
@@ -482,7 +486,6 @@
     "timeMonth": 56,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2024-04-20": 9,
       "2024-04-11": 248
     }
   },
@@ -493,9 +496,9 @@
     "slug": "imap-forwardemail-net-2993-i-pv6",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.85%",
     "time": 64,
     "timeDay": 70,
@@ -503,7 +506,6 @@
     "timeMonth": 60,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2024-04-20": 9,
       "2024-04-11": 285
     }
   },
@@ -661,18 +663,18 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-caldav-forwardemail-net-curl",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "28.17%",
-    "uptimeWeek": "89.74%",
-    "uptimeMonth": "96.19%",
-    "uptimeYear": "98.29%",
+    "uptime": "98.25%",
+    "uptimeDay": "25.77%",
+    "uptimeWeek": "89.40%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "98.25%",
     "time": 664,
     "timeDay": 272,
     "timeWeek": 220,
     "timeMonth": 802,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2024-04-20": 1034,
+      "2024-04-20": 1069,
       "2024-04-04": 22,
       "2024-04-03": 33,
       "2024-04-01": 27,
