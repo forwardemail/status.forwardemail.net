@@ -13,7 +13,7 @@
     "time": 698,
     "timeDay": 588,
     "timeWeek": 699,
-    "timeMonth": 651,
+    "timeMonth": 650,
     "timeYear": 698,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 82,
     "timeDay": 40,
     "timeWeek": 71,
-    "timeMonth": 79,
+    "timeMonth": 78,
     "timeYear": 82,
     "dailyMinutesDown": {}
   },
@@ -301,7 +301,7 @@
     "time": 81,
     "timeDay": 107,
     "timeWeek": 83,
-    "timeMonth": 70,
+    "timeMonth": 71,
     "timeYear": 81,
     "dailyMinutesDown": {}
   },
@@ -328,11 +328,11 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 77,
     "timeDay": 53,
@@ -340,7 +340,7 @@
     "timeMonth": 68,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-04-26": 9
+      "2024-04-26": 0
     }
   },
   {
@@ -350,18 +350,16 @@
     "slug": "smtp-forwardemail-net-25-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
     "timeDay": 111,
     "timeWeek": 97,
     "timeMonth": 91,
     "timeYear": 82,
-    "dailyMinutesDown": {
-      "2024-04-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:2525 (IPv4)",
@@ -377,7 +375,7 @@
     "time": 81,
     "timeDay": 41,
     "timeWeek": 71,
-    "timeMonth": 83,
+    "timeMonth": 82,
     "timeYear": 81,
     "dailyMinutesDown": {}
   },
@@ -411,7 +409,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 50,
+    "timeDay": 41,
     "timeWeek": 61,
     "timeMonth": 54,
     "timeYear": 67,
@@ -429,7 +427,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 51,
+    "timeDay": 41,
     "timeWeek": 61,
     "timeMonth": 55,
     "timeYear": 64,
@@ -447,7 +445,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 51,
+    "timeDay": 42,
     "timeWeek": 62,
     "timeMonth": 58,
     "timeYear": 78,
@@ -465,7 +463,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 51,
+    "timeDay": 41,
     "timeWeek": 62,
     "timeMonth": 62,
     "timeYear": 64,
