@@ -203,9 +203,9 @@ sites:
     check: "tcp-ping"
     ipv6: false
 
-  - name: https://caldav.forwardemail.net (curl)
-    url: https://caldav.forwardemail.net
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+#  - name: https://caldav.forwardemail.net (curl)
+#    url: https://caldav.forwardemail.net
+#    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
 
   - name: caldav.forwardemail.net:443 (IPv4)
     url: caldav.forwardemail.net
