@@ -366,9 +366,9 @@
     "slug": "smtp-forwardemail-net-2525-i-pv4",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 80,
     "timeDay": 75,
@@ -376,7 +376,7 @@
     "timeMonth": 80,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-04-30": 0
+      "2024-04-30": 10
     }
   },
   {
@@ -386,9 +386,9 @@
     "slug": "smtp-forwardemail-net-2525-i-pv6",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 82,
     "timeDay": 82,
@@ -396,7 +396,7 @@
     "timeMonth": 69,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-04-30": 0
+      "2024-04-30": 10
     }
   },
   {
