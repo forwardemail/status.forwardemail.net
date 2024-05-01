@@ -4,19 +4,19 @@
     "url": "https://forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-forwardemail-net-curl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 697,
-    "timeDay": 795,
-    "timeWeek": 650,
+    "timeDay": 759,
+    "timeWeek": 654,
     "timeMonth": 675,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-01": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-443-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 68,
-    "timeWeek": 55,
+    "timeDay": 66,
+    "timeWeek": 56,
     "timeMonth": 50,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-01": 7
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-443-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 68,
+    "timeDay": 65,
     "timeWeek": 55,
-    "timeMonth": 49,
+    "timeMonth": 50,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-01": 7
     }
   },
   {
