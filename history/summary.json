@@ -184,19 +184,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-587-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 73,
-    "timeWeek": 84,
+    "timeDay": 88,
+    "timeWeek": 86,
     "timeMonth": 79,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-05-09": 0
+      "2024-05-09": 8
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-587-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 71,
-    "timeWeek": 67,
+    "timeDay": 66,
+    "timeWeek": 66,
     "timeMonth": 73,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2024-05-09": 0
+      "2024-05-09": 8
     }
   },
   {
@@ -260,19 +260,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-465-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 72,
-    "timeWeek": 69,
+    "timeDay": 88,
+    "timeWeek": 73,
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2024-05-09": 0
+      "2024-05-09": 8
     }
   },
   {
