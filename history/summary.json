@@ -190,19 +190,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-587-i-pv4",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 85,
-    "timeDay": 105,
-    "timeWeek": 91,
+    "timeDay": 101,
+    "timeWeek": 90,
     "timeMonth": 80,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-05-17": 28
+      "2024-05-17": 35
     }
   },
   {
@@ -322,18 +322,16 @@
     "slug": "smtp-forwardemail-net-2465-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
     "timeDay": 103,
     "timeWeek": 92,
     "timeMonth": 82,
     "timeYear": 82,
-    "dailyMinutesDown": {
-      "2024-05-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:25 (IPv4)",
@@ -394,19 +392,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2525-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 83,
-    "timeDay": 107,
-    "timeWeek": 106,
+    "timeDay": 103,
+    "timeWeek": 104,
     "timeMonth": 82,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2024-05-17": 21
+      "2024-05-17": 28
     }
   },
   {
