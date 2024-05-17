@@ -293,7 +293,7 @@
     "time": 85,
     "timeDay": 101,
     "timeWeek": 102,
-    "timeMonth": 83,
+    "timeMonth": 84,
     "timeYear": 85,
     "dailyMinutesDown": {}
   },
@@ -302,19 +302,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2465-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 81,
-    "timeWeek": 82,
+    "timeDay": 83,
+    "timeWeek": 83,
     "timeMonth": 74,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-05-17": 1
+      "2024-05-17": 10
     }
   },
   {
@@ -344,9 +344,9 @@
     "slug": "smtp-forwardemail-net-25-i-pv4",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 78,
     "timeDay": 100,
@@ -354,7 +354,7 @@
     "timeMonth": 79,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-05-17": 24
+      "2024-05-17": 16
     }
   },
   {
@@ -398,19 +398,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2525-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 84,
-    "timeDay": 102,
+    "timeDay": 101,
     "timeWeek": 103,
     "timeMonth": 88,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2024-05-17": 21
+      "2024-05-17": 31
     }
   },
   {
