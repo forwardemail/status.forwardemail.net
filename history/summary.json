@@ -246,9 +246,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2587-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.63%",
+    "uptimeDay": "97.60%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -394,9 +394,9 @@
     "slug": "smtp-forwardemail-net-2525-i-pv6",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 83,
     "timeDay": 102,
@@ -404,7 +404,7 @@
     "timeMonth": 84,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2024-05-17": 30
+      "2024-05-17": 21
     }
   },
   {
