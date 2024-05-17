@@ -190,19 +190,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-587-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 86,
-    "timeDay": 110,
-    "timeWeek": 99,
+    "timeDay": 108,
+    "timeWeek": 98,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-05-17": 38
+      "2024-05-17": 45
     }
   },
   {
@@ -230,18 +230,16 @@
     "slug": "smtp-forwardemail-net-2587-i-pv4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
     "timeDay": 111,
     "timeWeek": 101,
     "timeMonth": 84,
     "timeYear": 83,
-    "dailyMinutesDown": {
-      "2024-05-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:2587 (IPv6)",
@@ -371,7 +369,7 @@
     "time": 84,
     "timeDay": 114,
     "timeWeek": 99,
-    "timeMonth": 91,
+    "timeMonth": 92,
     "timeYear": 84,
     "dailyMinutesDown": {}
   },
