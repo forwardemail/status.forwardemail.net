@@ -286,18 +286,16 @@
     "slug": "smtp-forwardemail-net-465-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
     "timeDay": 87,
     "timeWeek": 98,
     "timeMonth": 88,
     "timeYear": 85,
-    "dailyMinutesDown": {
-      "2024-05-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:2465 (IPv4)",
