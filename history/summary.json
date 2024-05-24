@@ -218,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 88,
     "timeDay": 69,
-    "timeWeek": 94,
+    "timeWeek": 90,
     "timeMonth": 87,
     "timeYear": 88,
     "dailyMinutesDown": {}
@@ -236,7 +236,7 @@
     "uptimeYear": "100.00%",
     "time": 83,
     "timeDay": 82,
-    "timeWeek": 92,
+    "timeWeek": 84,
     "timeMonth": 83,
     "timeYear": 83,
     "dailyMinutesDown": {}
@@ -254,7 +254,7 @@
     "uptimeYear": "99.99%",
     "time": 86,
     "timeDay": 82,
-    "timeWeek": 78,
+    "timeWeek": 72,
     "timeMonth": 82,
     "timeYear": 86,
     "dailyMinutesDown": {
@@ -268,18 +268,16 @@
     "slug": "smtp-forwardemail-net-465-i-pv4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
     "timeDay": 77,
-    "timeWeek": 89,
+    "timeWeek": 82,
     "timeMonth": 93,
     "timeYear": 84,
-    "dailyMinutesDown": {
-      "2024-05-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:465 (IPv6)",
@@ -294,7 +292,7 @@
     "uptimeYear": "100.00%",
     "time": 85,
     "timeDay": 82,
-    "timeWeek": 94,
+    "timeWeek": 92,
     "timeMonth": 89,
     "timeYear": 85,
     "dailyMinutesDown": {}
@@ -312,7 +310,7 @@
     "uptimeYear": "99.99%",
     "time": 81,
     "timeDay": 68,
-    "timeWeek": 91,
+    "timeWeek": 92,
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
@@ -327,12 +325,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 84,
     "timeDay": 82,
-    "timeWeek": 102,
+    "timeWeek": 100,
     "timeMonth": 96,
     "timeYear": 84,
     "dailyMinutesDown": {
@@ -347,12 +345,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 79,
     "timeDay": 82,
-    "timeWeek": 95,
+    "timeWeek": 97,
     "timeMonth": 85,
     "timeYear": 79,
     "dailyMinutesDown": {
@@ -372,7 +370,7 @@
     "uptimeYear": "100.00%",
     "time": 84,
     "timeDay": 70,
-    "timeWeek": 93,
+    "timeWeek": 84,
     "timeMonth": 93,
     "timeYear": 84,
     "dailyMinutesDown": {}
@@ -390,7 +388,7 @@
     "uptimeYear": "100.00%",
     "time": 81,
     "timeDay": 71,
-    "timeWeek": 93,
+    "timeWeek": 90,
     "timeMonth": 79,
     "timeYear": 81,
     "dailyMinutesDown": {}
@@ -408,7 +406,7 @@
     "uptimeYear": "99.99%",
     "time": 84,
     "timeDay": 82,
-    "timeWeek": 93,
+    "timeWeek": 95,
     "timeMonth": 90,
     "timeYear": 84,
     "dailyMinutesDown": {
@@ -420,19 +418,19 @@
     "url": "imap.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-forwardemail-net-993-i-pv4",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "75.16%",
-    "uptimeWeek": "96.45%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.85%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "52.46%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "99.72%",
     "time": 65,
-    "timeDay": 70,
-    "timeWeek": 62,
-    "timeMonth": 55,
+    "timeDay": 45,
+    "timeWeek": 57,
+    "timeMonth": 54,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2024-05-24": 358
+      "2024-05-24": 685
     }
   },
   {
@@ -440,19 +438,19 @@
     "url": "imap.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-forwardemail-net-993-i-pv6",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "75.16%",
-    "uptimeWeek": "96.45%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.85%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "52.46%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "99.72%",
     "time": 63,
-    "timeDay": 72,
-    "timeWeek": 63,
-    "timeMonth": 55,
+    "timeDay": 46,
+    "timeWeek": 57,
+    "timeMonth": 54,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2024-05-24": 358
+      "2024-05-24": 685
     }
   },
   {
@@ -460,19 +458,19 @@
     "url": "imap.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-forwardemail-net-2993-i-pv4",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "75.16%",
-    "uptimeWeek": "96.45%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.85%",
-    "time": 75,
-    "timeDay": 69,
-    "timeWeek": 61,
-    "timeMonth": 56,
-    "timeYear": 75,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "52.46%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "99.72%",
+    "time": 74,
+    "timeDay": 44,
+    "timeWeek": 56,
+    "timeMonth": 55,
+    "timeYear": 74,
     "dailyMinutesDown": {
-      "2024-05-24": 358
+      "2024-05-24": 685
     }
   },
   {
@@ -480,19 +478,19 @@
     "url": "imap.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-forwardemail-net-2993-i-pv6",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "75.16%",
-    "uptimeWeek": "96.45%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.85%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "52.46%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "99.72%",
     "time": 63,
-    "timeDay": 72,
-    "timeWeek": 63,
-    "timeMonth": 56,
+    "timeDay": 46,
+    "timeWeek": 57,
+    "timeMonth": 54,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2024-05-24": 358
+      "2024-05-24": 685
     }
   },
   {
