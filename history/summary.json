@@ -714,19 +714,19 @@
     "url": "bree.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/breejs/bree/master/favicon.ico",
     "slug": "bree-forwardemail-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 53,
-    "timeDay": 18,
-    "timeWeek": 53,
+    "timeDay": 38,
+    "timeWeek": 54,
     "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2024-05-29": 1
+      "2024-05-29": 6
     }
   },
   {
