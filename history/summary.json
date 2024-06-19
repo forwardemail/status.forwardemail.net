@@ -455,19 +455,19 @@
     "url": "imap.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-forwardemail-net-2993-i-pv4",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 71,
-    "timeDay": 40,
-    "timeWeek": 48,
-    "timeMonth": 48,
+    "timeDay": 46,
+    "timeWeek": 49,
+    "timeMonth": 49,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2024-06-19": 0
+      "2024-06-19": 21
     }
   },
   {
