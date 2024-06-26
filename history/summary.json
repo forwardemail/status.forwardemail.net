@@ -231,18 +231,16 @@
     "slug": "smtp-forwardemail-net-2587-i-pv4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
     "timeDay": 45,
     "timeWeek": 58,
     "timeMonth": 72,
     "timeYear": 81,
-    "dailyMinutesDown": {
-      "2024-06-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:2587 (IPv6)",
@@ -251,9 +249,9 @@
     "slug": "smtp-forwardemail-net-2587-i-pv6",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 85,
     "timeDay": 103,
@@ -261,7 +259,6 @@
     "timeMonth": 79,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-06-26": 9,
       "2024-05-17": 34
     }
   },
@@ -270,9 +267,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-465-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -281,7 +278,9 @@
     "timeWeek": 83,
     "timeMonth": 71,
     "timeYear": 82,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-26": 0
+    }
   },
   {
     "name": "smtp.forwardemail.net:465 (IPv6)",
