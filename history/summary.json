@@ -267,19 +267,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-465-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 152,
-    "timeWeek": 83,
+    "timeDay": 111,
+    "timeWeek": 81,
     "timeMonth": 71,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-06-26": 0
+      "2024-06-26": 11
     }
   },
   {
