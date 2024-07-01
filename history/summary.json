@@ -644,19 +644,19 @@
     "url": "caldav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "caldav-forwardemail-net-443-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 2,
+    "timeDay": 27,
     "timeWeek": 50,
-    "timeMonth": 45,
+    "timeMonth": 46,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2024-07-01": 1
+      "2024-07-01": 7
     }
   },
   {
@@ -664,19 +664,19 @@
     "url": "caldav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "caldav-forwardemail-net-443-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 44,
-    "timeDay": 2,
+    "time": 45,
+    "timeDay": 27,
     "timeWeek": 50,
     "timeMonth": 46,
-    "timeYear": 44,
+    "timeYear": 45,
     "dailyMinutesDown": {
-      "2024-07-01": 1
+      "2024-07-01": 7
     }
   },
   {
@@ -684,19 +684,19 @@
     "url": "caldav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "caldav-forwardemail-net-80-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 2,
-    "timeWeek": 47,
-    "timeMonth": 44,
+    "timeDay": 27,
+    "timeWeek": 48,
+    "timeMonth": 45,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2024-07-01": 1
+      "2024-07-01": 7
     }
   },
   {
@@ -704,19 +704,19 @@
     "url": "caldav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "caldav-forwardemail-net-80-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 2,
-    "timeWeek": 47,
+    "timeDay": 27,
+    "timeWeek": 48,
     "timeMonth": 45,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2024-07-01": 1
+      "2024-07-01": 7
     }
   },
   {
