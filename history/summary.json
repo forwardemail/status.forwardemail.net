@@ -507,9 +507,9 @@
     "slug": "pop3-forwardemail-net-995-i-pv4",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 49,
     "timeDay": 68,
@@ -517,7 +517,6 @@
     "timeMonth": 52,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-07-13": 7,
       "2024-07-04": 16
     }
   },
@@ -528,9 +527,9 @@
     "slug": "pop3-forwardemail-net-995-i-pv6",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 49,
     "timeDay": 68,
@@ -538,7 +537,6 @@
     "timeMonth": 52,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-07-13": 7,
       "2024-07-04": 16
     }
   },
@@ -549,9 +547,9 @@
     "slug": "pop3-forwardemail-net-2995-i-pv4",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 49,
     "timeDay": 68,
@@ -559,7 +557,6 @@
     "timeMonth": 52,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-07-13": 7,
       "2024-07-04": 16
     }
   },
@@ -570,9 +567,9 @@
     "slug": "pop3-forwardemail-net-2995-i-pv6",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 50,
     "timeDay": 65,
@@ -580,7 +577,6 @@
     "timeMonth": 52,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2024-07-13": 7,
       "2024-07-04": 16
     }
   },
