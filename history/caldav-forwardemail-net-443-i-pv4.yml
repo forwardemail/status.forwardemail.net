@@ -1,7 +1,7 @@
 url: caldav.forwardemail.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-25T07:48:09.819Z
+status: up
+code: 200
+responseTime: 75
+lastUpdated: 2024-07-25T07:55:02.993Z
 startTime: 2024-02-06T16:49:00.836Z
 generator: Upptime <https://github.com/upptime/upptime>
