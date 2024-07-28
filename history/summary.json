@@ -4,9 +4,9 @@
     "url": "https://forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-forwardemail-net-curl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 698,
     "timeYear": 673,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2024-05-14": 17
     }
   },
@@ -24,9 +25,9 @@
     "url": "forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-443-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 62,
     "timeYear": 47,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2024-05-14": 17
     }
   },
@@ -44,9 +46,9 @@
     "url": "forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-443-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -56,6 +58,7 @@
     "timeMonth": 82,
     "timeYear": 49,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2024-05-14": 17
     }
   },
@@ -102,12 +105,12 @@
     "slug": "https-api-forwardemail-net-curl",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 287,
-    "timeDay": 317,
+    "timeDay": 280,
     "timeWeek": 344,
     "timeMonth": 381,
     "timeYear": 287,
