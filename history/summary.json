@@ -4,9 +4,9 @@
     "url": "https://forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-forwardemail-net-curl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 676,
     "timeYear": 669,
     "dailyMinutesDown": {
+      "2024-08-10": 0,
       "2024-07-28": 30,
       "2024-05-14": 17
     }
