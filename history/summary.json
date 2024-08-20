@@ -377,7 +377,7 @@
     "time": 81,
     "timeDay": 2,
     "timeWeek": 51,
-    "timeMonth": 67,
+    "timeMonth": 66,
     "timeYear": 81,
     "dailyMinutesDown": {
       "2024-06-26": 17
@@ -550,10 +550,10 @@
     "url": "pop3.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "pop3-forwardemail-net-2995-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 50,
@@ -562,6 +562,7 @@
     "timeMonth": 57,
     "timeYear": 50,
     "dailyMinutesDown": {
+      "2024-08-20": 1,
       "2024-07-04": 16
     }
   },
