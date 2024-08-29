@@ -469,10 +469,10 @@
     "url": "imap.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-forwardemail-net-2993-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 67,
@@ -481,6 +481,7 @@
     "timeMonth": 53,
     "timeYear": 67,
     "dailyMinutesDown": {
+      "2024-08-29": 1,
       "2024-07-04": 16,
       "2024-06-19": 21
     }
@@ -666,18 +667,16 @@
     "slug": "caldav-forwardemail-net-443-i-pv4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
     "timeDay": 59,
     "timeWeek": 47,
     "timeMonth": 47,
     "timeYear": 46,
-    "dailyMinutesDown": {
-      "2024-08-29": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "caldav.forwardemail.net:443 (IPv6)",
@@ -686,18 +685,16 @@
     "slug": "caldav-forwardemail-net-443-i-pv6",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
     "timeDay": 60,
     "timeWeek": 48,
     "timeMonth": 47,
     "timeYear": 46,
-    "dailyMinutesDown": {
-      "2024-08-29": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "caldav.forwardemail.net:80 (IPv4)",
