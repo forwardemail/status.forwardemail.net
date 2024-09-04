@@ -198,9 +198,9 @@
     "slug": "smtp-forwardemail-net-587-i-pv4",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 80,
     "timeDay": 60,
@@ -208,7 +208,7 @@
     "timeMonth": 50,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-09-04": 0,
+      "2024-09-04": 12,
       "2024-06-26": 21,
       "2024-05-17": 55
     }
@@ -220,9 +220,9 @@
     "slug": "smtp-forwardemail-net-587-i-pv6",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 81,
     "timeDay": 60,
@@ -230,7 +230,7 @@
     "timeMonth": 46,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2024-09-04": 0
+      "2024-09-04": 12
     }
   },
   {
@@ -258,9 +258,9 @@
     "slug": "smtp-forwardemail-net-2587-i-pv6",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 81,
     "timeDay": 61,
@@ -268,7 +268,7 @@
     "timeMonth": 54,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2024-09-04": 0,
+      "2024-09-04": 12,
       "2024-05-17": 34
     }
   },
@@ -315,9 +315,9 @@
     "slug": "smtp-forwardemail-net-2465-i-pv4",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 77,
     "timeDay": 61,
@@ -325,7 +325,7 @@
     "timeMonth": 49,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-09-04": 0,
+      "2024-09-04": 12,
       "2024-05-17": 22
     }
   },
