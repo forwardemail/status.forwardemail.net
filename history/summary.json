@@ -199,7 +199,7 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 76,
@@ -436,10 +436,10 @@
     "url": "imap.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-forwardemail-net-993-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 59,
@@ -448,6 +448,7 @@
     "timeMonth": 50,
     "timeYear": 59,
     "dailyMinutesDown": {
+      "2024-10-11": 1,
       "2024-07-04": 16
     }
   },
