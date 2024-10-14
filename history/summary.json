@@ -257,9 +257,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2587-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -269,6 +269,7 @@
     "timeMonth": 42,
     "timeYear": 77,
     "dailyMinutesDown": {
+      "2024-10-14": 0,
       "2024-09-04": 28,
       "2024-05-17": 34
     }
@@ -316,9 +317,9 @@
     "slug": "smtp-forwardemail-net-2465-i-pv4",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 74,
     "timeDay": 44,
@@ -326,7 +327,6 @@
     "timeMonth": 43,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2024-10-14": 7,
       "2024-09-04": 28,
       "2024-05-17": 22
     }
@@ -416,10 +416,10 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2525-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 75,
@@ -428,6 +428,7 @@
     "timeMonth": 44,
     "timeYear": 75,
     "dailyMinutesDown": {
+      "2024-10-14": 1,
       "2024-06-18": 34,
       "2024-05-17": 21
     }
@@ -480,9 +481,9 @@
     "slug": "imap-forwardemail-net-2993-i-pv4",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 64,
     "timeDay": 36,
@@ -490,7 +491,6 @@
     "timeMonth": 50,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2024-10-14": 7,
       "2024-10-11": 19,
       "2024-07-04": 16,
       "2024-06-19": 21
@@ -503,9 +503,9 @@
     "slug": "imap-forwardemail-net-2993-i-pv6",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 58,
     "timeDay": 35,
@@ -513,7 +513,6 @@
     "timeMonth": 50,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2024-10-14": 7,
       "2024-10-11": 19,
       "2024-07-04": 16
     }
