@@ -487,7 +487,7 @@
     "uptimeYear": "99.98%",
     "time": 64,
     "timeDay": 27,
-    "timeWeek": 40,
+    "timeWeek": 42,
     "timeMonth": 46,
     "timeYear": 64,
     "dailyMinutesDown": {
@@ -511,7 +511,7 @@
     "uptimeYear": "99.99%",
     "time": 58,
     "timeDay": 52,
-    "timeWeek": 43,
+    "timeWeek": 46,
     "timeMonth": 47,
     "timeYear": 58,
     "dailyMinutesDown": {
@@ -604,28 +604,10 @@
     "url": "mx1.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx1-forwardemail-net-25-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 45,
-    "timeDay": 52,
-    "timeWeek": 36,
-    "timeMonth": 40,
-    "timeYear": 45,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "mx1.forwardemail.net:25 (IPv6)",
-    "url": "mx1.forwardemail.net",
-    "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
-    "slug": "mx1-forwardemail-net-25-i-pv6",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
@@ -634,6 +616,27 @@
     "timeMonth": 40,
     "timeYear": 45,
     "dailyMinutesDown": {
+      "2024-10-20": 1
+    }
+  },
+  {
+    "name": "mx1.forwardemail.net:25 (IPv6)",
+    "url": "mx1.forwardemail.net",
+    "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
+    "slug": "mx1-forwardemail-net-25-i-pv6",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 45,
+    "timeDay": 52,
+    "timeWeek": 36,
+    "timeMonth": 40,
+    "timeYear": 45,
+    "dailyMinutesDown": {
+      "2024-10-20": 1,
       "2024-06-18": 16
     }
   },
@@ -642,10 +645,10 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net-25-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 35,
@@ -653,17 +656,19 @@
     "timeWeek": 44,
     "timeMonth": 40,
     "timeYear": 35,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-20": 1
+    }
   },
   {
     "name": "mx2.forwardemail.net:25 (IPv6)",
     "url": "mx2.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net-25-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 35,
@@ -671,7 +676,9 @@
     "timeWeek": 43,
     "timeMonth": 40,
     "timeYear": 35,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-20": 1
+    }
   },
   {
     "name": "caldav.forwardemail.net:443 (IPv4)",
