@@ -339,9 +339,9 @@
     "slug": "smtp-forwardemail-net-2465-i-pv6",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 76,
     "timeDay": 43,
@@ -349,7 +349,6 @@
     "timeMonth": 47,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2024-10-26": 5,
       "2024-05-17": 31
     }
   },
