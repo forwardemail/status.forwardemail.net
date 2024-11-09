@@ -606,19 +606,19 @@
     "url": "mx1.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx1-forwardemail-net-25-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 64,
-    "timeWeek": 38,
-    "timeMonth": 42,
+    "timeDay": 58,
+    "timeWeek": 39,
+    "timeMonth": 43,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2024-11-09": 1
+      "2024-11-09": 7
     }
   },
   {
