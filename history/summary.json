@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 659,
-    "timeDay": 280,
+    "timeDay": 219,
     "timeWeek": 639,
     "timeMonth": 674,
     "timeYear": 659,
@@ -257,10 +257,10 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-2587-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 74,
@@ -269,6 +269,7 @@
     "timeMonth": 48,
     "timeYear": 74,
     "dailyMinutesDown": {
+      "2024-11-24": 1,
       "2024-09-04": 28,
       "2024-05-17": 34
     }
@@ -300,7 +301,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 73,
     "timeDay": 61,
@@ -357,10 +358,10 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
@@ -369,6 +370,7 @@
     "timeMonth": 37,
     "timeYear": 70,
     "dailyMinutesDown": {
+      "2024-11-24": 1,
       "2024-05-17": 16
     }
   },
@@ -377,10 +379,10 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
@@ -389,6 +391,7 @@
     "timeMonth": 53,
     "timeYear": 72,
     "dailyMinutesDown": {
+      "2024-11-24": 1,
       "2024-06-26": 17
     }
   },
@@ -685,7 +688,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 45,
     "timeDay": 2,
@@ -705,12 +708,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 46,
     "timeDay": 2,
     "timeWeek": 50,
-    "timeMonth": 45,
+    "timeMonth": 44,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2024-10-24": 30
