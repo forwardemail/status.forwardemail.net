@@ -665,11 +665,11 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net-25-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 35,
     "timeDay": 50,
@@ -677,7 +677,7 @@
     "timeMonth": 32,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2024-12-12": 15
+      "2024-12-12": 1
     }
   },
   {
