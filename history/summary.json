@@ -6,9 +6,9 @@
     "slug": "https-forwardemail-net-curl",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 660,
     "timeDay": 1098,
@@ -16,7 +16,7 @@
     "timeMonth": 672,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-01-29": 36,
+      "2025-01-29": 26,
       "2024-08-30": 25,
       "2024-07-28": 30,
       "2024-05-14": 17
@@ -29,9 +29,9 @@
     "slug": "forwardemail-net-443-i-pv4",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 47,
     "timeDay": 52,
@@ -39,7 +39,6 @@
     "timeMonth": 49,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2025-01-29": 10,
       "2024-07-28": 30,
       "2024-05-14": 17
     }
@@ -51,9 +50,9 @@
     "slug": "forwardemail-net-443-i-pv6",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 49,
     "timeDay": 52,
@@ -61,7 +60,6 @@
     "timeMonth": 49,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2025-01-29": 10,
       "2024-07-28": 30,
       "2024-05-14": 17
     }
