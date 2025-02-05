@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 716,
     "timeDay": 722,
-    "timeWeek": 2858,
+    "timeWeek": 3012,
     "timeMonth": 1460,
     "timeYear": 721,
     "dailyMinutesDown": {
@@ -716,7 +716,7 @@
     "time": 46,
     "timeDay": 50,
     "timeWeek": 47,
-    "timeMonth": 48,
+    "timeMonth": 47,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2024-10-24": 30
@@ -783,10 +783,10 @@
     "url": "bree.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/breejs/bree/master/favicon.ico",
     "slug": "bree-forwardemail-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 52,
@@ -794,7 +794,9 @@
     "timeWeek": 61,
     "timeMonth": 55,
     "timeYear": 51,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 1
+    }
   },
   {
     "name": "sqlite.forwardemail.net",
