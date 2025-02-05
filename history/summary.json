@@ -284,9 +284,9 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-465-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
@@ -296,6 +296,7 @@
     "timeMonth": 41,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-02-05": 0,
       "2025-01-28": 82,
       "2024-12-19": 14,
       "2024-12-18": 5
@@ -785,18 +786,16 @@
     "slug": "bree-forwardemail-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 52,
     "timeDay": 64,
     "timeWeek": 62,
     "timeMonth": 55,
     "timeYear": 51,
-    "dailyMinutesDown": {
-      "2025-02-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sqlite.forwardemail.net",
