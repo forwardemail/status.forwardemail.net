@@ -631,11 +631,11 @@
     "url": "mx1.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx1-forwardemail-net-25-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 45,
     "timeDay": 62,
@@ -643,7 +643,7 @@
     "timeMonth": 50,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2025-02-25": 89
+      "2025-02-25": 94
     }
   },
   {
@@ -651,11 +651,11 @@
     "url": "mx1.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx1-forwardemail-net-25-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 45,
     "timeDay": 62,
@@ -663,7 +663,7 @@
     "timeMonth": 49,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2025-02-25": 87,
+      "2025-02-25": 90,
       "2024-06-18": 16
     }
   },
@@ -674,17 +674,17 @@
     "slug": "mx2-forwardemail-net-25-i-pv4",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.97%",
     "time": 34,
     "timeDay": 27,
     "timeWeek": 30,
     "timeMonth": 28,
     "timeYear": 33,
     "dailyMinutesDown": {
-      "2025-02-25": 113,
+      "2025-02-25": 127,
       "2024-12-12": 18
     }
   },
@@ -695,17 +695,17 @@
     "slug": "mx2-forwardemail-net-25-i-pv6",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "91.29%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.97%",
     "time": 34,
     "timeDay": 27,
     "timeWeek": 30,
     "timeMonth": 28,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2025-02-25": 112,
+      "2025-02-25": 125,
       "2024-12-12": 17
     }
   },
