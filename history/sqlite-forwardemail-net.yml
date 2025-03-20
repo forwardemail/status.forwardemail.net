@@ -1,7 +1,7 @@
 url: sqlite.forwardemail.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-20T06:37:04.333Z
+status: up
+code: 200
+responseTime: 53
+lastUpdated: 2025-03-20T06:47:08.098Z
 startTime: 2023-11-07T06:18:47.829Z
 generator: Upptime <https://github.com/upptime/upptime>
