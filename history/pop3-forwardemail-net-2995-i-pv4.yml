@@ -1,7 +1,7 @@
 url: pop3.forwardemail.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-28T06:00:02.621Z
+status: up
+code: 200
+responseTime: 60
+lastUpdated: 2025-03-28T06:11:20.905Z
 startTime: 2023-12-09T04:46:35.996Z
 generator: Upptime <https://github.com/upptime/upptime>
