@@ -854,18 +854,18 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-443-ssl",
     "status": "down",
-    "uptime": "1.30%",
-    "uptimeDay": "1.30%",
-    "uptimeWeek": "1.30%",
-    "uptimeMonth": "1.30%",
-    "uptimeYear": "1.30%",
+    "uptime": "0.56%",
+    "uptimeDay": "0.56%",
+    "uptimeWeek": "0.56%",
+    "uptimeMonth": "0.56%",
+    "uptimeYear": "0.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 1
+      "2025-04-09": 2
     }
   },
   {
@@ -885,7 +885,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 1
+      "2025-04-09": 2
     }
   },
   {
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 1
+      "2025-04-09": 2
     }
   },
   {
@@ -925,7 +925,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 1
+      "2025-04-09": 2
     }
   },
   {
@@ -945,7 +945,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 1
+      "2025-04-09": 2
     }
   }
 ]
