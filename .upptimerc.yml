@@ -243,6 +243,32 @@ sites:
     port: 22
     check: "tcp-ping"
 
+  - name: forwardemail.net:443 (SSL)
+    url: forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 443
+    check: "ssl"
+  - name: api.forwardemail.net (SSL)
+    url: api.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 443
+    check: "ssl"
+  - name: caldav.forwardemail.net (SSL)
+    url: caldav.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 443
+    check: "ssl"
+  - name: status.forwardemail.net (SSL)
+    url: status.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 443
+    check: "ssl"
+  - name: checkout.forwardemail.net (SSL)
+    url: checkout.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 443
+    check: "ssl"
+
   # we cannot test these because they do not allow ping on managed dbs and ip-restricted access list only
   # - name: mongo
   #   url: $MONGO_HOST
