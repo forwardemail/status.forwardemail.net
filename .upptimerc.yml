@@ -1,3 +1,4 @@
+
 # Change these first
 owner: forwardemail # Your GitHub organization or username, where this repository lives
 repo: status.forwardemail.net # The name of this repository
@@ -203,10 +204,6 @@ sites:
     check: "tcp-ping"
     ipv6: false
 
-#  - name: https://caldav.forwardemail.net (curl)
-#    url: https://caldav.forwardemail.net
-#    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-
   - name: caldav.forwardemail.net:443 (IPv4)
     url: caldav.forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
@@ -226,6 +223,30 @@ sites:
     check: "tcp-ping"
   - name: caldav.forwardemail.net:80 (IPv6)
     url: caldav.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 80
+    check: "tcp-ping"
+    ipv6: false
+
+  - name: carddav.forwardemail.net:443 (IPv4)
+    url: carddav.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 443
+    check: "tcp-ping"
+  - name: carddav.forwardemail.net:443 (IPv6)
+    url: carddav.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 443
+    check: "tcp-ping"
+    ipv6: false
+
+  - name: carddav.forwardemail.net:80 (IPv4)
+    url: carddav.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 80
+    check: "tcp-ping"
+  - name: carddav.forwardemail.net:80 (IPv6)
+    url: carddav.forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 80
     check: "tcp-ping"
@@ -255,6 +276,11 @@ sites:
     check: "ssl"
   - name: caldav.forwardemail.net (SSL)
     url: caldav.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 443
+    check: "ssl"
+  - name: carddav.forwardemail.net (SSL)
+    url: carddav.forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 443
     check: "ssl"
