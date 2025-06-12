@@ -808,19 +808,19 @@
     "url": "carddav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-forwardemail-net-443-i-pv4",
-    "status": "up",
-    "uptime": "95.41%",
-    "uptimeDay": "95.41%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.41%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 47,
     "timeDay": 47,
     "timeWeek": 47,
     "timeMonth": 47,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2025-06-12": 12
+      "2025-06-12": 1
     }
   },
   {
@@ -828,19 +828,19 @@
     "url": "carddav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-forwardemail-net-443-i-pv6",
-    "status": "up",
-    "uptime": "95.41%",
-    "uptimeDay": "95.41%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.41%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
     "time": 49,
     "timeDay": 49,
     "timeWeek": 49,
     "timeMonth": 49,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2025-06-12": 12
+      "2025-06-12": 1
     }
   },
   {
@@ -848,19 +848,19 @@
     "url": "carddav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-forwardemail-net-80-i-pv4",
-    "status": "up",
-    "uptime": "95.41%",
-    "uptimeDay": "95.41%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.41%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 44,
     "timeDay": 44,
     "timeWeek": 44,
     "timeMonth": 44,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2025-06-12": 12
+      "2025-06-12": 1
     }
   },
   {
@@ -868,19 +868,19 @@
     "url": "carddav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-forwardemail-net-80-i-pv6",
-    "status": "up",
-    "uptime": "95.41%",
-    "uptimeDay": "95.41%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.41%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 42,
     "timeDay": 42,
     "timeWeek": 42,
     "timeMonth": 42,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2025-06-12": 12
+      "2025-06-12": 1
     }
   },
   {
@@ -981,19 +981,19 @@
     "url": "carddav.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-forwardemail-net-ssl",
-    "status": "up",
-    "uptime": "95.36%",
-    "uptimeDay": "95.36%",
-    "uptimeWeek": "95.36%",
-    "uptimeMonth": "95.36%",
-    "uptimeYear": "95.36%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-12": 12
+      "2025-06-12": 1
     }
   },
   {
