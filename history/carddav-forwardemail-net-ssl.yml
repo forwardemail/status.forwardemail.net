@@ -1,7 +1,7 @@
 url: carddav.forwardemail.net
-status: up
-code: 200
+status: down
+code: 0
 responseTime: 0
-lastUpdated: 2025-06-12T12:32:09.085Z
+lastUpdated: 2025-06-12T16:35:49.001Z
 startTime: 2025-06-12T12:32:07.398Z
 generator: Upptime <https://github.com/upptime/upptime>
