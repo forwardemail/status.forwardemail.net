@@ -605,10 +605,10 @@
     "url": "pop3.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "pop3-forwardemail-net-2995-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 50,
@@ -617,6 +617,7 @@
     "timeMonth": 42,
     "timeYear": 50,
     "dailyMinutesDown": {
+      "2025-06-12": 1,
       "2024-07-04": 16
     }
   },
@@ -809,19 +810,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-forwardemail-net-443-i-pv4",
     "status": "up",
-    "uptime": "96.65%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "96.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 53,
     "timeDay": 53,
     "timeWeek": 53,
     "timeMonth": 53,
     "timeYear": 53,
-    "dailyMinutesDown": {
-      "2025-06-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "carddav.forwardemail.net:443 (IPv6)",
@@ -829,19 +828,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-forwardemail-net-443-i-pv6",
     "status": "up",
-    "uptime": "96.65%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "96.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 54,
     "timeDay": 54,
     "timeWeek": 54,
     "timeMonth": 54,
     "timeYear": 54,
-    "dailyMinutesDown": {
-      "2025-06-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "carddav.forwardemail.net:80 (IPv4)",
@@ -849,19 +846,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-forwardemail-net-80-i-pv4",
     "status": "up",
-    "uptime": "96.65%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "96.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 50,
     "timeDay": 50,
     "timeWeek": 50,
     "timeMonth": 50,
     "timeYear": 50,
-    "dailyMinutesDown": {
-      "2025-06-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "carddav.forwardemail.net:80 (IPv6)",
@@ -869,19 +864,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-forwardemail-net-80-i-pv6",
     "status": "up",
-    "uptime": "96.65%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "96.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 50,
     "timeDay": 50,
     "timeWeek": 50,
     "timeMonth": 50,
     "timeYear": 50,
-    "dailyMinutesDown": {
-      "2025-06-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bree.forwardemail.net",
@@ -982,19 +975,17 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-forwardemail-net-ssl",
     "status": "up",
-    "uptime": "96.64%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "96.64%",
-    "uptimeMonth": "96.64%",
-    "uptimeYear": "96.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-06-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "status.forwardemail.net (SSL)",
