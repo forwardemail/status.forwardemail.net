@@ -305,10 +305,10 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-465-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 55,
@@ -317,6 +317,7 @@
     "timeMonth": 48,
     "timeYear": 46,
     "dailyMinutesDown": {
+      "2025-09-03": 1,
       "2025-03-07": 27,
       "2025-02-27": 19,
       "2025-01-28": 82,
@@ -586,18 +587,16 @@
     "slug": "pop3-forwardemail-net-2995-i-pv4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 50,
     "timeDay": 30,
     "timeWeek": 42,
     "timeMonth": 45,
     "timeYear": 48,
-    "dailyMinutesDown": {
-      "2025-09-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pop3.forwardemail.net:2995 (IPv6)",
