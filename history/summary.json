@@ -6,8 +6,8 @@
     "slug": "https-forwardemail-net-curl",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 754,
@@ -16,6 +16,7 @@
     "timeMonth": 769,
     "timeYear": 806,
     "dailyMinutesDown": {
+      "2025-09-13": 1,
       "2025-02-25": 16,
       "2025-01-29": 26
     }
