@@ -61,10 +61,10 @@
     "url": "forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "forwardemail-net-80-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 49,
@@ -72,7 +72,9 @@
     "timeWeek": 28,
     "timeMonth": 43,
     "timeYear": 47,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "forwardemail.net:80 (IPv6)",
@@ -753,7 +755,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 58,
+    "timeDay": 44,
     "timeWeek": 49,
     "timeMonth": 45,
     "timeYear": 46,
