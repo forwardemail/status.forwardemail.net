@@ -110,19 +110,19 @@
     "url": "https://api.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "https-api-forwardemail-net-curl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 407,
-    "timeWeek": 383,
-    "timeMonth": 351,
-    "timeYear": 335,
+    "timeDay": 534,
+    "timeWeek": 414,
+    "timeMonth": 360,
+    "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-10-04": 0,
+      "2025-10-04": 10,
       "2025-09-22": 16
     }
   },
@@ -131,19 +131,19 @@
     "url": "api.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-forwardemail-net-443-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 49,
     "timeDay": 50,
-    "timeWeek": 51,
+    "timeWeek": 50,
     "timeMonth": 47,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2025-10-04": 0
+      "2025-10-04": 10
     }
   },
   {
@@ -171,9 +171,9 @@
     "slug": "api-forwardemail-net-80-i-pv4",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "67.16%",
-    "uptimeWeek": "95.31%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "66.48%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "99.91%",
     "time": 49,
     "timeDay": 61,
@@ -181,7 +181,7 @@
     "timeMonth": 48,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2025-10-04": 357,
+      "2025-10-04": 366,
       "2025-10-03": 116
     }
   },
@@ -192,9 +192,9 @@
     "slug": "api-forwardemail-net-80-i-pv6",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "67.16%",
-    "uptimeWeek": "95.31%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "66.48%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "99.91%",
     "time": 49,
     "timeDay": 60,
@@ -202,7 +202,7 @@
     "timeMonth": 47,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2025-10-04": 357,
+      "2025-10-04": 366,
       "2025-10-03": 116
     }
   },
