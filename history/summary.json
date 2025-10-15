@@ -168,10 +168,10 @@
     "url": "api.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-forwardemail-net-80-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "99.82%",
     "time": 49,
@@ -180,6 +180,7 @@
     "timeMonth": 50,
     "timeYear": 47,
     "dailyMinutesDown": {
+      "2025-10-15": 1,
       "2025-10-04": 830,
       "2025-10-03": 116
     }
@@ -189,10 +190,10 @@
     "url": "api.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-forwardemail-net-80-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "99.82%",
     "time": 49,
@@ -201,6 +202,7 @@
     "timeMonth": 49,
     "timeYear": 47,
     "dailyMinutesDown": {
+      "2025-10-15": 1,
       "2025-10-04": 830,
       "2025-10-03": 116
     }
