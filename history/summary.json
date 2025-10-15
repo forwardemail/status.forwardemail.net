@@ -170,9 +170,9 @@
     "slug": "api-forwardemail-net-80-i-pv4",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "73.83%",
-    "uptimeWeek": "96.26%",
-    "uptimeMonth": "96.98%",
+    "uptimeDay": "73.04%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "99.75%",
     "time": 49,
     "timeDay": 28,
@@ -180,7 +180,7 @@
     "timeMonth": 50,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2025-10-15": 377,
+      "2025-10-15": 388,
       "2025-10-04": 830,
       "2025-10-03": 116
     }
@@ -192,9 +192,9 @@
     "slug": "api-forwardemail-net-80-i-pv6",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "73.83%",
-    "uptimeWeek": "96.26%",
-    "uptimeMonth": "96.98%",
+    "uptimeDay": "73.04%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "99.75%",
     "time": 49,
     "timeDay": 28,
@@ -202,7 +202,7 @@
     "timeMonth": 49,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2025-10-15": 377,
+      "2025-10-15": 388,
       "2025-10-04": 830,
       "2025-10-03": 116
     }
@@ -966,11 +966,11 @@
     "url": "api.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-forwardemail-net-ssl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
@@ -978,7 +978,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-15": 2
+      "2025-10-15": 12
     }
   },
   {
