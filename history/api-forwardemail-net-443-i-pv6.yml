@@ -1,7 +1,7 @@
 url: api.forwardemail.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-15T09:55:12.206Z
+status: up
+code: 200
+responseTime: 73
+lastUpdated: 2025-10-15T10:03:52.843Z
 startTime: 2023-12-09T04:46:16.671Z
 generator: Upptime <https://github.com/upptime/upptime>
