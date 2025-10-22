@@ -132,6 +132,30 @@ sites:
     check: "tcp-ping"
     ipv6: false
 
+  - name: smtp.forwardemail.net:2455 (IPv4) (SSL with TLS 1.0 Legacy)
+    url: smtp.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 2455
+    check: "tcp-ping"
+  - name: smtp.forwardemail.net:2455 (IPv6) (SSL with TLS 1.0 Legacy)
+    url: smtp.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 2455
+    check: "tcp-ping"
+    ipv6: false
+
+  - name: smtp.forwardemail.net:2555 (IPv4) (STARTTLS with TLS 1.0 Legacy)
+    url: smtp.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 2555
+    check: "tcp-ping"
+  - name: smtp.forwardemail.net:2555 (IPv6) (STARTTLS with TLS 1.0 Legacy)
+    url: smtp.forwardemail.net
+    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
+    port: 2555
+    check: "tcp-ping"
+    ipv6: false
+
   - name: imap.forwardemail.net:993 (IPv4)
     url: imap.forwardemail.net
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
