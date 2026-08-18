@@ -6,7 +6,14 @@
       "createdAt": "2026-01-24T21:48:28.180Z",
       "lastUpdate": "2026-01-24T21:48:28.180Z",
       "resolvedAt": null
+    },
+    "apple-2000005601": {
+      "issueNumber": 2496,
+      "isResolved": false,
+      "createdAt": "2026-08-18T20:58:26.432Z",
+      "lastUpdate": "2026-08-18T20:58:26.432Z",
+      "resolvedAt": null
     }
   },
-  "lastRun": "2026-08-18T20:36:37.228Z"
+  "lastRun": "2026-08-18T20:58:26.432Z"
 }
