@@ -9,11 +9,11 @@
     },
     "microsoft-bf9ed9de-f18b-4f39-9d8e-d2ceb90376d6": {
       "issueNumber": 2517,
-      "isResolved": false,
+      "isResolved": true,
       "createdAt": "2026-09-16T15:31:45.198Z",
       "lastUpdate": "2026-09-16T15:31:45.198Z",
-      "resolvedAt": null
+      "resolvedAt": "2026-09-16T19:03:56.738Z"
     }
   },
-  "lastRun": "2026-09-16T15:31:45.198Z"
+  "lastRun": "2026-09-16T19:03:56.738Z"
 }
