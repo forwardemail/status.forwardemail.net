@@ -7,20 +7,13 @@
       "lastUpdate": "2026-01-24T21:48:28.180Z",
       "resolvedAt": null
     },
-    "microsoft-bf9ed9de-f18b-4f39-9d8e-d2ceb90376d6": {
-      "issueNumber": 2517,
-      "isResolved": true,
-      "createdAt": "2026-09-16T15:31:45.198Z",
-      "lastUpdate": "2026-09-16T15:31:45.198Z",
-      "resolvedAt": "2026-09-16T19:03:56.738Z"
-    },
     "google-B5V4MfnVp97nxoTYbxdX": {
       "issueNumber": 2521,
       "isResolved": false,
       "createdAt": "2026-09-22T23:10:25.892Z",
-      "lastUpdate": "2026-09-23T17:12:37.716Z",
+      "lastUpdate": "2026-09-23T20:28:52.641Z",
       "resolvedAt": null
     }
   },
-  "lastRun": "2026-09-23T17:12:37.716Z"
+  "lastRun": "2026-09-23T20:28:52.641Z"
 }
