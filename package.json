@@ -4,7 +4,8 @@
   "private": true,
   "description": "Status page for Forward Email",
   "scripts": {
-    "monitor": "node scripts/external-mail-monitor.js"
+    "monitor": "node scripts/external-mail-monitor.js",
+    "test": "node --test"
   },
   "dependencies": {
     "xml2js": "^0.6.2"

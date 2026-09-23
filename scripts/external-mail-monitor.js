@@ -397,7 +397,7 @@ async function githubApi(method, apiPath, body = null, retries = 3) {
           if (res.statusCode >= 400) {
             const error = new Error(`GitHub API error ${res.statusCode}: ${parsed.message || data}`);
             error.statusCode = res.statusCode;
-            
+
             // Retry on 5xx errors or rate limiting (403/429)
             if (retries > 0 && (res.statusCode >= 500 || res.statusCode === 429 || res.statusCode === 403)) {
               console.log(`GitHub API error ${res.statusCode}, retrying (${retries} retries left)...`);
@@ -406,7 +406,7 @@ async function githubApi(method, apiPath, body = null, retries = 3) {
               }, 2000);
               return;
             }
-            
+
             reject(error);
           } else {
             resolve(parsed);
@@ -427,7 +427,7 @@ async function githubApi(method, apiPath, body = null, retries = 3) {
       }
       reject(error);
     });
-    
+
     req.setTimeout(30_000, () => {
       req.destroy();
       const error = new Error('GitHub API timeout');
@@ -458,7 +458,7 @@ async function getIssue(issueNumber) {
   if (!issueNumber || typeof issueNumber !== 'number') {
     return null;
   }
-  
+
   try {
     const issue = await githubApi('GET', `/repos/${CONFIG.owner}/${CONFIG.repo}/issues/${issueNumber}`);
     return issue;
@@ -481,7 +481,7 @@ async function findExistingIssue(incidentId, provider) {
   if (!incidentId || !provider) {
     return null;
   }
-  
+
   try {
     const searchQuery = encodeURIComponent(
       `repo:${CONFIG.owner}/${CONFIG.repo} is:issue label:maintenance "${provider}" "${incidentId}" in:body`
@@ -499,14 +499,65 @@ async function findExistingIssue(incidentId, provider) {
 }
 
 /**
+ * Format an issue title that clearly attributes the incident to an external provider.
+ * @param {object} incident - Incident data
+ * @returns {string} - External provider incident title
+ */
+function formatExternalProviderIncidentTitle(incident) {
+  const service = typeof incident?.service === 'string' ? incident.service.trim() : '';
+  if (!service) {
+    throw new TypeError('Incident service must be a non-empty string');
+  }
+
+  return `External Provider Incident: ${service}`;
+}
+
+/**
+ * Update an issue title when it does not clearly attribute the incident to an external provider.
+ * @param {number} issueNumber - Issue number
+ * @param {object} incident - Incident data
+ * @param {object} existingIssue - Existing GitHub issue data
+ * @param {Function} request - GitHub API request function
+ * @returns {Promise<boolean>} - True when a title update was made
+ */
+async function updateIssueTitle(issueNumber, incident, existingIssue, request = githubApi) {
+  const title = formatExternalProviderIncidentTitle(incident);
+  if (existingIssue.title === title) {
+    return false;
+  }
+
+  await request('PATCH', `/repos/${CONFIG.owner}/${CONFIG.repo}/issues/${issueNumber}`, {
+    title
+  });
+  console.log(`Renamed issue #${issueNumber} to "${title}"`);
+  return true;
+}
+
+/**
+ * Synchronize an issue title without posting a status-update comment.
+ * @param {number} issueNumber - Issue number
+ * @param {object} incident - Incident data
+ * @returns {Promise<boolean>} - True if the issue was found
+ */
+async function synchronizeIssueTitle(issueNumber, incident) {
+  const existingIssue = await getIssue(issueNumber);
+  if (!existingIssue) {
+    return false;
+  }
+
+  await updateIssueTitle(issueNumber, incident, existingIssue);
+  return true;
+}
+
+/**
  * Create a new GitHub issue for an incident
  * @param {object} incident - Incident data
  * @returns {Promise<object>} - Created issue
  */
 async function createIssue(incident) {
-  const title = `Investigating ${incident.service} service issues`;
+  const title = formatExternalProviderIncidentTitle(incident);
 
-  let body = `Currently monitoring an issue with **${incident.service}** that may affect email delivery.\n\n`;
+  let body = `The external provider **${incident.service}** has reported an incident that may affect email delivery to or from that provider.\n\n`;
 
   body += `## Incident Details\n\n`;
   body += `| Field | Value |\n`;
@@ -565,20 +616,29 @@ async function updateIssue(issueNumber, incident, shouldClose = false) {
     console.log(`Invalid issue number: ${issueNumber}, skipping update`);
     return false;
   }
-  
+
   // Verify the issue exists before trying to update
   const existingIssue = await getIssue(issueNumber);
   if (!existingIssue) {
     console.log(`Issue #${issueNumber} does not exist, skipping update`);
     return false;
   }
-  
+
+  let titleUpdated;
+  try {
+    // Keep the title clear when an active or resolved incident is revisited.
+    titleUpdated = await updateIssueTitle(issueNumber, incident, existingIssue);
+  } catch (error) {
+    console.error(`Failed to update title for issue #${issueNumber}:`, error.message);
+    return false;
+  }
+
   // Check if issue is already closed
   if (existingIssue.state === 'closed' && shouldClose) {
-    console.log(`Issue #${issueNumber} is already closed, skipping update`);
+    console.log(`Issue #${issueNumber} is already closed${titleUpdated ? ' and its title was updated' : ''}`);
     return true;
   }
-  
+
   // Add a comment with the update
   let comment = `## Status Update\n\n`;
   comment += `**Time:** ${new Date().toISOString()}\n`;
@@ -610,7 +670,7 @@ async function updateIssue(issueNumber, incident, shouldClose = false) {
     } else {
       console.log(`Updated issue #${issueNumber} with latest status`);
     }
-    
+
     return true;
   } catch (error) {
     console.error(`Failed to update issue #${issueNumber}:`, error.message);
@@ -628,13 +688,13 @@ function validateState(state) {
     incidents: {},
     lastRun: null
   };
-  
+
   if (!state || typeof state !== 'object') {
     return validState;
   }
-  
+
   validState.lastRun = state.lastRun || null;
-  
+
   if (state.incidents && typeof state.incidents === 'object') {
     for (const [key, value] of Object.entries(state.incidents)) {
       // Validate each incident entry
@@ -649,7 +709,7 @@ function validateState(state) {
       }
     }
   }
-  
+
   return validState;
 }
 
@@ -727,7 +787,7 @@ async function monitor() {
   }
 
   console.log(`Found ${allIncidents.length} total relevant incident(s)`);
-  
+
   // Log any errors but continue processing
   if (errors.length > 0) {
     console.log(`Warning: ${errors.length} provider(s) had errors but continuing with available data`);
@@ -746,11 +806,11 @@ async function monitor() {
           console.log(`Incident ${stateKey} already resolved in state, skipping`);
           continue;
         }
-        
+
         // If previously active and now resolved, update and close
         if (incident.isResolved) {
           console.log(`Incident ${stateKey} has been resolved`);
-          
+
           // Only try to update if we have a valid issue number (positive integer)
           if (typeof previousState.issueNumber === 'number' && Number.isInteger(previousState.issueNumber) && previousState.issueNumber > 0) {
             const updated = await updateIssue(previousState.issueNumber, incident, true);
@@ -775,6 +835,10 @@ async function monitor() {
           const lastUpdate = new Date(previousState.lastUpdate || 0);
           const hoursSinceUpdate = (Date.now() - lastUpdate.getTime()) / (1000 * 60 * 60);
 
+          if (typeof previousState.issueNumber === 'number' && Number.isInteger(previousState.issueNumber) && previousState.issueNumber > 0) {
+            await synchronizeIssueTitle(previousState.issueNumber, incident);
+          }
+
           // Update every 2 hours for ongoing incidents
           if (hoursSinceUpdate >= 2 && typeof previousState.issueNumber === 'number' && Number.isInteger(previousState.issueNumber) && previousState.issueNumber > 0) {
             const updated = await updateIssue(previousState.issueNumber, incident, false);
@@ -786,12 +850,13 @@ async function monitor() {
       } else if (!incident.isResolved) {
         // New active incident - create issue
         console.log(`New incident detected: ${stateKey}`);
-        
+
         // First check if issue already exists (in case state was lost)
         const existingIssue = await findExistingIssue(incident.id, incident.provider);
 
         if (existingIssue) {
           console.log(`Found existing issue #${existingIssue.number} for incident ${stateKey}`);
+          await updateIssueTitle(existingIssue.number, incident, existingIssue);
           state.incidents[stateKey] = {
             issueNumber: existingIssue.number,
             isResolved: existingIssue.state === 'closed',
@@ -904,15 +969,21 @@ async function monitor() {
   saveState(state);
 
   console.log(`[${new Date().toISOString()}] Status check complete`);
-  
+
   // Only fail if all providers failed
   if (errors.length === 3) {
     throw new Error('All provider checks failed');
   }
 }
 
-// Run the monitor
-monitor().catch((error) => {
-  console.error('Monitor failed:', error);
-  process.exit(1);
-});
+if (require.main === module) {
+  monitor().catch((error) => {
+    console.error('Monitor failed:', error);
+    process.exit(1);
+  });
+}
+
+module.exports = {
+  formatExternalProviderIncidentTitle,
+  updateIssueTitle
+};
