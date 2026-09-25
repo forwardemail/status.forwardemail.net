@@ -9,11 +9,11 @@
     },
     "google-B5V4MfnVp97nxoTYbxdX": {
       "issueNumber": 2521,
-      "isResolved": false,
+      "isResolved": true,
       "createdAt": "2026-09-22T23:10:25.892Z",
       "lastUpdate": "2026-09-24T23:25:31.216Z",
-      "resolvedAt": null
+      "resolvedAt": "2026-09-25T01:45:45.585Z"
     }
   },
-  "lastRun": "2026-09-24T23:25:31.216Z"
+  "lastRun": "2026-09-25T01:45:45.585Z"
 }
