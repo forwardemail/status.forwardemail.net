@@ -13,7 +13,14 @@
       "createdAt": "2026-11-05T22:52:01.710Z",
       "lastUpdate": null,
       "resolvedAt": "2026-11-05T22:52:01.710Z"
+    },
+    "apple-1000005965": {
+      "issueNumber": null,
+      "isResolved": true,
+      "createdAt": "2026-11-11T01:25:16.423Z",
+      "lastUpdate": null,
+      "resolvedAt": "2026-11-11T01:25:16.423Z"
     }
   },
-  "lastRun": "2026-11-10T21:27:18.608Z"
+  "lastRun": "2026-11-11T01:25:16.423Z"
 }
