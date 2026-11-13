@@ -7,13 +7,6 @@
       "lastUpdate": "2026-01-24T21:48:28.180Z",
       "resolvedAt": null
     },
-    "apple-1000005944": {
-      "issueNumber": null,
-      "isResolved": true,
-      "createdAt": "2026-11-05T22:52:01.710Z",
-      "lastUpdate": null,
-      "resolvedAt": "2026-11-05T22:52:01.710Z"
-    },
     "apple-1000005965": {
       "issueNumber": null,
       "isResolved": true,
@@ -23,11 +16,18 @@
     },
     "microsoft-3de2ebc7-056f-4b80-94ae-6da7965c7566": {
       "issueNumber": 2550,
-      "isResolved": false,
+      "isResolved": true,
       "createdAt": "2026-11-12T19:11:34.556Z",
       "lastUpdate": "2026-11-12T19:11:34.556Z",
+      "resolvedAt": "2026-11-13T00:39:38.030Z"
+    },
+    "microsoft-032f0eba-d384-4ed2-93b1-b7eb42f24e61": {
+      "issueNumber": 2551,
+      "isResolved": false,
+      "createdAt": "2026-11-13T00:39:36.500Z",
+      "lastUpdate": "2026-11-13T00:39:36.500Z",
       "resolvedAt": null
     }
   },
-  "lastRun": "2026-11-12T19:11:34.557Z"
+  "lastRun": "2026-11-13T00:39:38.030Z"
 }
