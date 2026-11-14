@@ -51,11 +51,11 @@
     },
     "microsoft-78aed2ae-2c7a-4748-8d46-674dec2631b7": {
       "issueNumber": 2556,
-      "isResolved": false,
+      "isResolved": true,
       "createdAt": "2026-11-14T01:44:48.108Z",
       "lastUpdate": "2026-11-14T01:44:48.108Z",
-      "resolvedAt": null
+      "resolvedAt": "2026-11-14T08:06:42.862Z"
     }
   },
-  "lastRun": "2026-11-14T01:44:49.593Z"
+  "lastRun": "2026-11-14T08:06:42.862Z"
 }
