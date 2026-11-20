@@ -347,19 +347,19 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 0,
-    "timeWeek": 48,
-    "timeMonth": 46,
+    "timeDay": 26,
+    "timeWeek": 45,
+    "timeMonth": 45,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2026-11-20": 22
+      "2026-11-20": 24
     }
   },
   {
@@ -367,21 +367,21 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 46,
-    "timeDay": 0,
-    "timeWeek": 41,
+    "timeDay": 50,
+    "timeWeek": 42,
     "timeMonth": 42,
     "timeYear": 45,
     "dailyMinutesDown": {
       "2025-12-26": 15,
       "2026-01-11": 15,
-      "2026-11-20": 18
+      "2026-11-20": 20
     }
   },
   {
@@ -717,19 +717,19 @@
     "url": "mx1.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx1-forwardemail-net-25-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 0,
-    "timeWeek": 35,
+    "timeDay": 25,
+    "timeWeek": 34,
     "timeMonth": 40,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2026-11-20": 14
+      "2026-11-20": 16
     }
   },
   {
@@ -737,19 +737,19 @@
     "url": "mx1.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx1-forwardemail-net-25-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 0,
-    "timeWeek": 32,
+    "timeDay": 23,
+    "timeWeek": 30,
     "timeMonth": 39,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2026-11-20": 10
+      "2026-11-20": 12
     }
   },
   {
@@ -757,19 +757,19 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net-25-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 0,
+    "timeDay": 52,
     "timeWeek": 47,
     "timeMonth": 37,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2026-11-20": 6
+      "2026-11-20": 8
     }
   },
   {
@@ -777,19 +777,19 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net-25-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 0,
-    "timeWeek": 52,
-    "timeMonth": 42,
+    "timeDay": 51,
+    "timeWeek": 51,
+    "timeMonth": 43,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2026-11-20": 2
+      "2026-11-20": 4
     }
   },
   {
