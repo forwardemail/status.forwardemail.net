@@ -347,41 +347,38 @@
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv4",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 43,
-    "timeWeek": 43,
+    "timeDay": 30,
+    "timeWeek": 40,
     "timeMonth": 44,
     "timeYear": 45,
-    "dailyMinutesDown": {
-      "2026-11-24": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "smtp.forwardemail.net:25 (IPv6)",
     "url": "smtp.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-forwardemail-net-25-i-pv6",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 46,
-    "timeDay": 46,
-    "timeWeek": 45,
-    "timeMonth": 43,
+    "timeDay": 31,
+    "timeWeek": 41,
+    "timeMonth": 42,
     "timeYear": 45,
     "dailyMinutesDown": {
       "2025-12-26": 15,
-      "2026-01-11": 15,
-      "2026-11-24": 18
+      "2026-01-11": 15
     }
   },
   {
@@ -717,40 +714,37 @@
     "url": "mx1.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx1-forwardemail-net-25-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 16,
-    "timeWeek": 38,
+    "timeDay": 17,
+    "timeWeek": 35,
     "timeMonth": 39,
     "timeYear": 41,
-    "dailyMinutesDown": {
-      "2026-11-24": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mx1.forwardemail.net:25 (IPv6)",
     "url": "mx1.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx1-forwardemail-net-25-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 16,
-    "timeWeek": 28,
+    "timeDay": 28,
+    "timeWeek": 30,
     "timeMonth": 38,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2026-11-22": 25,
-      "2026-11-24": 10
+      "2026-11-22": 25
     }
   },
   {
@@ -758,20 +752,19 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net-25-i-pv4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 57,
-    "timeWeek": 48,
-    "timeMonth": 37,
+    "timeDay": 37,
+    "timeWeek": 44,
+    "timeMonth": 36,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2026-11-22": 21,
-      "2026-11-24": 6
+      "2026-11-22": 21
     }
   },
   {
@@ -779,20 +772,19 @@
     "url": "mx2.forwardemail.net",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx2-forwardemail-net-25-i-pv6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 57,
-    "timeWeek": 48,
+    "timeDay": 37,
+    "timeWeek": 44,
     "timeMonth": 42,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2026-11-22": 17,
-      "2026-11-24": 2
+      "2026-11-22": 17
     }
   },
   {
